@@ -1,0 +1,37 @@
+name: Run automation
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 */12 * * *'
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-python@v5
+      with:
+        python-version: '3.10' 
+
+
+    - run: pip install -r requirements.txt
+
+    - name: run script
+      run: python3 notify.py
+      env:
+        WEBHOOK: ${{ secrets.WEBHOOK }}
+
+    - name: Push results
+      run: |
+        git config --global user.name 'gha-bot'
+        git config --global user.email 'gha-bot@bot.local'
+        git config --global branch.autoSetupMerge always
+        git config --global core.mergeoptions --no-edit
+        git config --global pull.rebase false
+
+        git add *.txt || echo nothing to add
+        git commit -m "new output $(date)"
+        git pull
+        git push 
