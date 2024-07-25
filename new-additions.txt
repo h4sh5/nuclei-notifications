@@ -1,5 +1,6 @@
 headless/2024/CVE-2024-38526.yaml
 http/cnvd/2023/CNVD-2023-72138.yaml
+http/cves/2022/CVE-2022-34267.yaml
 http/cves/2022/CVE-2022-38322.yaml
 http/cves/2022/CVE-2022-45269.yaml
 http/cves/2023/CVE-2023-2309.yaml
@@ -15,6 +16,7 @@ http/cves/2024/CVE-2024-32238.yaml
 http/cves/2024/CVE-2024-34257.yaml
 http/cves/2024/CVE-2024-34351.yaml
 http/cves/2024/CVE-2024-3742.yaml
+http/cves/2024/CVE-2024-37843.yaml
 http/cves/2024/CVE-2024-40348.yaml
 http/cves/2024/CVE-2024-4257.yaml
 http/cves/2024/CVE-2024-4295.yaml
@@ -22,6 +24,7 @@ http/cves/2024/CVE-2024-4879.yaml
 http/cves/2024/CVE-2024-4885.yaml
 http/cves/2024/CVE-2024-5217.yaml
 http/cves/2024/CVE-2024-6289.yaml
+http/cves/2024/CVE-2024-6587.yaml
 http/cves/2024/CVE-2024-6646.yaml
 http/default-logins/deluge/deluge-default-login.yaml
 http/default-logins/gitblit/gitblit-default-login.yaml
