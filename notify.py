@@ -76,14 +76,16 @@ for template_file in r.text.split('\n'):
 				notification_line = ":fire: " + notification_line
 			if (len(notification_msg) + len(notification_line)) > 2000:
 				messages.append(notification_msg)
+				# reset notification msg
 				notification_msg = notification_line + "\n" + "-" * 5 + "\n" 
 
 			else:
 				notification_msg += notification_line + "\n" + "-" * 5 + "\n" 
 
-
 	except Exception as e:
 		print("ERROR: ", e, flush=True)
+
+messages.append(notification_msg)
 
 # deal with content limits
 print(f"sending {len(messages)} messages..")
