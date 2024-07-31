@@ -86,7 +86,8 @@ for template_file in r.text.split('\n'):
 	except Exception as e:
 		print("ERROR: ", e, flush=True)
 
-messages.append(notification_msg)
+if len(notification_line) > 0:
+	messages.append(notification_msg)
 
 # deal with content limits
 print(f"sending {len(messages)} messages..")
