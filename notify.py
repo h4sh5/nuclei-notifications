@@ -31,8 +31,9 @@ for template_file in r.text.split('\n'):
 		if template_file in old_additions:
 			print(f"skipping old file {template_file}")
 			continue
-
-		notification_line = f'{template_file.split("/")[-1].split(".yaml")[0]} '
+		cve = f'{template_file.split("/")[-1].split(".yaml")[0]}'
+		# nvd url for quick checking
+		notification_line = f'[{cve}](https://nvd.nist.gov/vuln/detail/{cve}) '
 		shodan_part = ''
 		cvss_part = ''
 		name = ''
