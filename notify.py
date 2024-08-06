@@ -72,7 +72,7 @@ for template_file in r.text.split('\n'):
 
 				if "rce" in tags.lower() or "execution" in name.lower() or "rce" in name.lower():
 					crit = True
-			notification_line += name  + cvss_part + shodan_part + "tags: " +  tags_part
+			notification_line += name  + " " +  cvss_part + shodan_part + "tags: " +  tags_part
 			if crit:
 				notification_line = ":fire: " + notification_line
 			if (len(notification_msg) + len(notification_line)) > 2000:
