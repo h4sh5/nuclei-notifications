@@ -4,9 +4,12 @@ http/cves/2023/CVE-2023-43323.yaml
 http/cves/2023/CVE-2023-44393.yaml
 http/cves/2023/CVE-2023-5222.yaml
 http/cves/2023/CVE-2023-5863.yaml
+http/cves/2023/CVE-2023-6444.yaml
 http/cves/2024/CVE-2024-24763.yaml
 http/cves/2024/CVE-2024-34061.yaml
 http/cves/2024/CVE-2024-36104.yaml
+http/cves/2024/CVE-2024-38288.yaml
+http/cves/2024/CVE-2024-38514.yaml
 http/cves/2024/CVE-2024-38856.yaml
 http/cves/2024/CVE-2024-39903.yaml
 http/cves/2024/CVE-2024-39907.yaml
@@ -50,3 +53,4 @@ http/vulnerabilities/esafenet/esafenet-noticeajax-sqli.yaml
 http/vulnerabilities/landray/landray-oa-replaceextend-rce.yaml
 javascript/misconfiguration/x11/x11-unauth-access.yaml
 javascript/udp/detection/db2-discover.yaml
+network/cves/2004/CVE-2004-2687.yaml
