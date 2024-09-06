@@ -8,6 +8,7 @@ http/cves/2014/CVE-2014-5187.yaml
 http/cves/2023/CVE-2023-22621.yaml
 http/cves/2023/CVE-2023-34105.yaml
 http/cves/2023/CVE-2023-35155.yaml
+http/cves/2023/CVE-2023-41597.yaml
 http/cves/2023/CVE-2023-41621.yaml
 http/cves/2023/CVE-2023-47684.yaml
 http/cves/2023/CVE-2023-6329.yaml
@@ -23,6 +24,7 @@ http/cves/2024/CVE-2024-7029.yaml
 http/default-logins/apache/apache-hertzbeat-default-login.yaml
 http/misconfiguration/installer/emlog-installer.yaml
 http/misconfiguration/installer/strapi-admin-installer.yaml
+http/misconfiguration/nginx/nginx-api-traversal.yaml
 http/misconfiguration/repetier-unauth.yaml
 http/technologies/wordpress/plugins/wp-mail-logging.yaml
 http/technologies/writebook-detect.yaml
