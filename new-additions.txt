@@ -199,9 +199,11 @@ http/cves/2014/CVE-2014-4941.yaml
 http/cves/2014/CVE-2014-5181.yaml
 http/cves/2014/CVE-2014-5187.yaml
 http/cves/2023/CVE-2023-22621.yaml
+http/cves/2023/CVE-2023-3188.yaml
 http/cves/2023/CVE-2023-34105.yaml
 http/cves/2023/CVE-2023-35155.yaml
 http/cves/2023/CVE-2023-38992.yaml
+http/cves/2023/CVE-2023-39024.yaml
 http/cves/2023/CVE-2023-41597.yaml
 http/cves/2023/CVE-2023-41621.yaml
 http/cves/2023/CVE-2023-47684.yaml
@@ -212,6 +214,7 @@ http/cves/2024/CVE-2024-20440.yaml
 http/cves/2024/CVE-2024-23167.yaml
 http/cves/2024/CVE-2024-28987.yaml
 http/cves/2024/CVE-2024-29889.yaml
+http/cves/2024/CVE-2024-3673.yaml
 http/cves/2024/CVE-2024-38472.yaml
 http/cves/2024/CVE-2024-41667.yaml
 http/cves/2024/CVE-2024-41955.yaml
@@ -227,8 +230,12 @@ http/cves/2024/CVE-2024-6928.yaml
 http/cves/2024/CVE-2024-7029.yaml
 http/cves/2024/CVE-2024-7786.yaml
 http/cves/2024/CVE-2024-8517.yaml
+http/cves/2024/CVE-2024-8752.yaml
 http/default-logins/apache/apache-hertzbeat-default-login.yaml
+http/default-logins/bonita/bonita-default-login.yaml
+http/default-logins/nginx/nginx-proxy-manager-default-login.yaml
 http/exposed-panels/authentik-panel.yaml
+http/exposed-panels/bonita-portal-panel.yaml
 http/exposed-panels/ibm/ibm-api-connect-panel.yaml
 http/exposed-panels/kemp-loadmaster-panel.yaml
 http/exposures/configs/apache-jspwiki-ip-userenum.yaml
@@ -238,6 +245,7 @@ http/misconfiguration/installer/strapi-admin-installer.yaml
 http/misconfiguration/nginx/nginx-api-traversal.yaml
 http/misconfiguration/repetier-unauth.yaml
 http/technologies/apache/apache-jspwiki-detect.yaml
+http/technologies/domibus-detect.yaml
 http/technologies/ibm/ibm-api-connect-developer-portal-detect.yaml
 http/technologies/wordpress/plugins/give.yaml
 http/technologies/wordpress/plugins/inpost-for-woocommerce.yaml
@@ -250,6 +258,7 @@ http/vulnerabilities/imo/imo-rce.yaml
 http/vulnerabilities/other/fastbee-arbitrary-file-read.yaml
 http/vulnerabilities/other/fumasoft-sqli.yaml
 http/vulnerabilities/other/fumengyun-sqli.yaml
+http/vulnerabilities/other/motic-dsm-arbitrary-file-read.yaml
 http/vulnerabilities/other/nsfocus-auth-bypass.yaml
 http/vulnerabilities/other/nsfocus-lfi.yaml
 http/vulnerabilities/other/webp-server-lfi.yaml
