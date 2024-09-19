@@ -198,6 +198,7 @@ http/cves/2014/CVE-2014-4577.yaml
 http/cves/2014/CVE-2014-4941.yaml
 http/cves/2014/CVE-2014-5181.yaml
 http/cves/2014/CVE-2014-5187.yaml
+http/cves/2022/CVE-2022-24637.yaml
 http/cves/2023/CVE-2023-22621.yaml
 http/cves/2023/CVE-2023-3188.yaml
 http/cves/2023/CVE-2023-34105.yaml
@@ -214,6 +215,7 @@ http/cves/2024/CVE-2024-20419.yaml
 http/cves/2024/CVE-2024-20439.yaml
 http/cves/2024/CVE-2024-20440.yaml
 http/cves/2024/CVE-2024-23167.yaml
+http/cves/2024/CVE-2024-28397.yaml
 http/cves/2024/CVE-2024-28987.yaml
 http/cves/2024/CVE-2024-29889.yaml
 http/cves/2024/CVE-2024-3673.yaml
@@ -223,6 +225,7 @@ http/cves/2024/CVE-2024-41955.yaml
 http/cves/2024/CVE-2024-44849.yaml
 http/cves/2024/CVE-2024-45195.yaml
 http/cves/2024/CVE-2024-45388.yaml
+http/cves/2024/CVE-2024-45507.yaml
 http/cves/2024/CVE-2024-45622.yaml
 http/cves/2024/CVE-2024-6159.yaml
 http/cves/2024/CVE-2024-6586.yaml
@@ -235,7 +238,6 @@ http/cves/2024/CVE-2024-7786.yaml
 http/cves/2024/CVE-2024-8503.yaml
 http/cves/2024/CVE-2024-8517.yaml
 http/cves/2024/CVE-2024-8752.yaml
-http/cves/CVE-2024-45507.yaml
 http/default-logins/apache/apache-hertzbeat-default-login.yaml
 http/default-logins/bonita/bonita-default-login.yaml
 http/default-logins/nginx/nginx-proxy-manager-default-login.yaml
