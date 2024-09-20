@@ -222,6 +222,7 @@ http/cves/2024/CVE-2024-3673.yaml
 http/cves/2024/CVE-2024-38472.yaml
 http/cves/2024/CVE-2024-41667.yaml
 http/cves/2024/CVE-2024-41955.yaml
+http/cves/2024/CVE-2024-44000.yaml
 http/cves/2024/CVE-2024-44849.yaml
 http/cves/2024/CVE-2024-45195.yaml
 http/cves/2024/CVE-2024-45388.yaml
@@ -243,6 +244,7 @@ http/default-logins/bonita/bonita-default-login.yaml
 http/default-logins/nginx/nginx-proxy-manager-default-login.yaml
 http/exposed-panels/authentik-panel.yaml
 http/exposed-panels/bonita-portal-panel.yaml
+http/exposed-panels/filecatalyst-panel.yaml
 http/exposed-panels/ibm/ibm-api-connect-panel.yaml
 http/exposed-panels/kemp-loadmaster-panel.yaml
 http/exposed-panels/open-web-analytics-panel.yaml
