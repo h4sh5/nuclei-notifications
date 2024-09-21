@@ -204,6 +204,7 @@ http/cves/2023/CVE-2023-27847.yaml
 http/cves/2023/CVE-2023-3188.yaml
 http/cves/2023/CVE-2023-34105.yaml
 http/cves/2023/CVE-2023-35155.yaml
+http/cves/2023/CVE-2023-38192.yaml
 http/cves/2023/CVE-2023-38992.yaml
 http/cves/2023/CVE-2023-39024.yaml
 http/cves/2023/CVE-2023-39650.yaml
@@ -213,6 +214,7 @@ http/cves/2023/CVE-2023-43654.yaml
 http/cves/2023/CVE-2023-47684.yaml
 http/cves/2023/CVE-2023-6275.yaml
 http/cves/2023/CVE-2023-6329.yaml
+http/cves/2023/CVE-2023-6568.yaml
 http/cves/2024/CVE-2024-20419.yaml
 http/cves/2024/CVE-2024-20439.yaml
 http/cves/2024/CVE-2024-20440.yaml
@@ -241,9 +243,11 @@ http/cves/2024/CVE-2024-7029.yaml
 http/cves/2024/CVE-2024-7786.yaml
 http/cves/2024/CVE-2024-8503.yaml
 http/cves/2024/CVE-2024-8517.yaml
+http/cves/2024/CVE-2024-8522.yaml
 http/cves/2024/CVE-2024-8752.yaml
 http/default-logins/apache/apache-hertzbeat-default-login.yaml
 http/default-logins/bonita/bonita-default-login.yaml
+http/default-logins/canon/canon-c3325-default-login.yaml
 http/default-logins/nginx/nginx-proxy-manager-default-login.yaml
 http/default-logins/tplink/tplink-r470t-default-login.yaml
 http/exposed-panels/authentik-panel.yaml
@@ -253,6 +257,7 @@ http/exposed-panels/ibm/ibm-api-connect-panel.yaml
 http/exposed-panels/kemp-loadmaster-panel.yaml
 http/exposed-panels/open-web-analytics-panel.yaml
 http/exposures/configs/apache-jspwiki-ip-userenum.yaml
+http/misconfiguration/canon-c3325-unauth.yaml
 http/misconfiguration/directory-listing-no-host-header.yaml
 http/misconfiguration/installer/emlog-installer.yaml
 http/misconfiguration/installer/open-web-analytics-installer.yaml
@@ -275,6 +280,9 @@ http/vulnerabilities/other/fastbee-arbitrary-file-read.yaml
 http/vulnerabilities/other/fumasoft-sqli.yaml
 http/vulnerabilities/other/fumengyun-sqli.yaml
 http/vulnerabilities/other/motic-dsm-arbitrary-file-read.yaml
+http/vulnerabilities/other/netpower-npfw-lfi.yaml
+http/vulnerabilities/other/newcapec-rce.yaml
+http/vulnerabilities/other/nginx-webui-rce.yaml
 http/vulnerabilities/other/nsfocus-auth-bypass.yaml
 http/vulnerabilities/other/nsfocus-lfi.yaml
 http/vulnerabilities/other/webp-server-lfi.yaml
