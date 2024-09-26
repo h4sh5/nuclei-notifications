@@ -199,12 +199,14 @@ http/cves/2014/CVE-2014-4941.yaml
 http/cves/2014/CVE-2014-5181.yaml
 http/cves/2014/CVE-2014-5187.yaml
 http/cves/2017/CVE-2017-3131.yaml
+http/cves/2017/CVE-2017-3132.yaml
 http/cves/2017/CVE-2017-3133.yaml
 http/cves/2019/CVE-2019-0232.yaml
 http/cves/2019/CVE-2019-6793.yaml
 http/cves/2020/CVE-2020-11441.yaml
 http/cves/2022/CVE-2022-24637.yaml
 http/cves/2023/CVE-2023-22621.yaml
+http/cves/2023/CVE-2023-27584.yaml
 http/cves/2023/CVE-2023-27847.yaml
 http/cves/2023/CVE-2023-3188.yaml
 http/cves/2023/CVE-2023-34105.yaml
@@ -230,6 +232,7 @@ http/cves/2024/CVE-2024-23167.yaml
 http/cves/2024/CVE-2024-28397.yaml
 http/cves/2024/CVE-2024-28987.yaml
 http/cves/2024/CVE-2024-29889.yaml
+http/cves/2024/CVE-2024-30188.yaml
 http/cves/2024/CVE-2024-36683.yaml
 http/cves/2024/CVE-2024-3673.yaml
 http/cves/2024/CVE-2024-38472.yaml
@@ -251,6 +254,7 @@ http/cves/2024/CVE-2024-6926.yaml
 http/cves/2024/CVE-2024-6928.yaml
 http/cves/2024/CVE-2024-7029.yaml
 http/cves/2024/CVE-2024-7786.yaml
+http/cves/2024/CVE-2024-8484.yaml
 http/cves/2024/CVE-2024-8503.yaml
 http/cves/2024/CVE-2024-8517.yaml
 http/cves/2024/CVE-2024-8522.yaml
@@ -259,6 +263,7 @@ http/cves/2024/CVE-2024-8883.yaml
 http/default-logins/apache/apache-hertzbeat-default-login.yaml
 http/default-logins/bonita/bonita-default-login.yaml
 http/default-logins/canon/canon-c3325-default-login.yaml
+http/default-logins/dragonfly/dragonfly-default-login.yaml
 http/default-logins/filegator/filegator-default-login.yaml
 http/default-logins/nginx/nginx-proxy-manager-default-login.yaml
 http/default-logins/pcoweb/pcoweb-default-login.yaml
@@ -269,10 +274,13 @@ http/exposed-panels/authentik-panel.yaml
 http/exposed-panels/bonita-portal-panel.yaml
 http/exposed-panels/canon/canon-iradv-c3325.yaml
 http/exposed-panels/cgit-panel.yaml
+http/exposed-panels/dragonfly-panel.yaml
 http/exposed-panels/filecatalyst-panel.yaml
 http/exposed-panels/filegator-panel.yaml
 http/exposed-panels/ibm/ibm-api-connect-panel.yaml
+http/exposed-panels/ivanti-csa-panel.yaml
 http/exposed-panels/kemp-loadmaster-panel.yaml
+http/exposed-panels/maestro-listserv-panel.yaml
 http/exposed-panels/open-web-analytics-panel.yaml
 http/exposed-panels/pcoweb-panel.yaml
 http/exposed-panels/qualitor-itsm-panel.yaml
@@ -281,6 +289,7 @@ http/exposed-panels/tplink/tplink-r470t-panel.yaml
 http/exposures/configs/apache-jspwiki-ip-userenum.yaml
 http/misconfiguration/canon-c3325-unauth.yaml
 http/misconfiguration/directory-listing-no-host-header.yaml
+http/misconfiguration/dragonfly-public-signup.yaml
 http/misconfiguration/installer/emlog-installer.yaml
 http/misconfiguration/installer/navidrome-admin-install.yaml
 http/misconfiguration/installer/open-web-analytics-installer.yaml
@@ -290,6 +299,7 @@ http/misconfiguration/pcoweb-unauth.yaml
 http/misconfiguration/repetier-unauth.yaml
 http/technologies/apache/apache-jspwiki-detect.yaml
 http/technologies/domibus-detect.yaml
+http/technologies/hugegraph-detect.yaml
 http/technologies/ibm/ibm-api-connect-developer-portal-detect.yaml
 http/technologies/torchserve-detect.yaml
 http/technologies/wordpress/plugins/extendify.yaml
@@ -305,11 +315,13 @@ http/vulnerabilities/other/fastbee-arbitrary-file-read.yaml
 http/vulnerabilities/other/fumasoft-sqli.yaml
 http/vulnerabilities/other/fumengyun-sqli.yaml
 http/vulnerabilities/other/motic-dsm-arbitrary-file-read.yaml
+http/vulnerabilities/other/nacos-info-leak.yaml
 http/vulnerabilities/other/netpower-npfw-lfi.yaml
 http/vulnerabilities/other/newcapec-rce.yaml
 http/vulnerabilities/other/nginx-webui-rce.yaml
 http/vulnerabilities/other/nsfocus-auth-bypass.yaml
 http/vulnerabilities/other/nsfocus-lfi.yaml
+http/vulnerabilities/other/panmicro-arbitrary-file-read.yaml
 http/vulnerabilities/other/webp-server-lfi.yaml
 http/vulnerabilities/projectsend-auth-bypass.yaml
 http/vulnerabilities/yonyou/yonyou-ufida-nc-cloud-sqli.yaml
