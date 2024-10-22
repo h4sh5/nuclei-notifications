@@ -4,10 +4,11 @@ import requests
 import yaml # pip3 install pyyaml
 import os
 import sys
+from urllib.parse import quote_plus
 
 # discord webhook
 WEBHOOK = os.getenv("WEBHOOK")
-
+SHODAN_API = os.getenv("SHODAN_API")
 
 r = requests.get('https://github.com/projectdiscovery/nuclei-templates/raw/main/.new-additions')
 old_additions = ''
@@ -17,6 +18,29 @@ if os.path.exists('new-additions.txt'):
 		old_additions = old_additions.split()
 with open('new-additions.txt', 'w') as f:
 	f.write(r.text)
+
+
+def get_shodan_query_count(query):
+	'''
+	count the total stats about a query, return a stat string
+	'''
+	all_total = -1
+	au_total = -1
+	query = quote_plus(query)
+	au_only = f"{query}+country:AU"
+	url = f"https://api.shodan.io/shodan/host/count?query={query}&key={SHODAN_API}"
+	r = requests.get(url)
+	if r.status_code == 200:
+		d = r.json()
+		all_total = d.get("total")
+
+	au_url = f"https://api.shodan.io/shodan/host/count?query={au_only}&key={SHODAN_API}"
+	r = requests.get(au_url)
+	if r.status_code == 200:
+		d = r.json()
+		au_total = d.get("total")
+
+	return f"g:{all_total} au:{au_total}"
 
 messages = []
 
@@ -32,8 +56,8 @@ for template_file in r.text.split('\n'):
 			print(f"skipping old file {template_file}")
 			continue
 		cve = f'{template_file.split("/")[-1].split(".yaml")[0]}'
-		# nvd url for quick checking
-		notification_line = f'[{cve}](https://nvd.nist.gov/vuln/detail/{cve}) '
+		# nvd and github urls for quick checking
+		notification_line = f'[{cve}](https://nvd.nist.gov/vuln/detail/{cve}) [(tpl)](https://github.com/projectdiscovery/nuclei-templates/blob/main/{template_file}) '
 		shodan_part = ''
 		cvss_part = ''
 		name = ''
@@ -61,9 +85,16 @@ for template_file in r.text.split('\n'):
 					if template['info']['metadata'].get('shodan-query') != None:
 						shodan_part = "\nshodan:"
 						if type(template['info']['metadata'].get('shodan-query') ) == list:
-							shodan_part += "\n```\n" + '\n'.join(template['info']['metadata'].get('shodan-query')) + "\n```\n"
+							shodan_part += "\n```\n"
+							for query in template['info']['metadata'].get('shodan-query'):
+								count_str = get_shodan_query_count(query)
+								shodan_part += f"`{query}`" + f" #{count_str}" + "\n"
+							shodan_part += "\n```\n"
+
 						else:
-							shodan_part += f"`{template['info']['metadata'].get('shodan-query')}`\n"
+							query = template['info']['metadata'].get('shodan-query')
+							count_str = get_shodan_query_count(query)
+							shodan_part += f"`{query}` #{count_str}\n"
 
 				tags = template['info'].get('tags')
 				tags_part = ''

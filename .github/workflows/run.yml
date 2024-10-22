@@ -22,6 +22,7 @@ jobs:
       run: python3 notify.py
       env:
         WEBHOOK: ${{ secrets.WEBHOOK }}
+        SHODAN_API: ${{ secrets.SHODAN_API }}
 
     - name: Push results
       run: |
