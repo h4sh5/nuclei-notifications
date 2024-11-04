@@ -12,9 +12,12 @@ code/cves/2014/CVE-2014-0160.yaml
 file/logs/aspnet-framework-exceptions.yaml
 file/logs/nodejs-framework-exceptions.yaml
 http/cves/2019/CVE-2019-1003000.yaml
+http/cves/2024/CVE-2024-48360.yaml
 http/cves/2024/CVE-2024-4841.yaml
+http/cves/2024/CVE-2024-6049.yaml
 http/cves/2024/CVE-2024-6420.yaml
 http/exposed-panels/cyberpanel-panel.yaml
+http/exposed-panels/nexpose-panel.yaml
 http/exposed-panels/quivr-panel.yaml
 http/iot/ip-webcam.yaml
 http/miscellaneous/azure-blob-core-detect.yaml
@@ -22,4 +25,5 @@ http/technologies/hubble-detect.yaml
 http/technologies/localai-detect.yaml
 http/technologies/pghero-detect.yaml
 http/technologies/wordpress/plugins/burst-statistics.yaml
+http/technologies/wordpress/plugins/flexmls-detect.yaml
 http/vulnerabilities/backdoor/lottie-backdoor.yaml
