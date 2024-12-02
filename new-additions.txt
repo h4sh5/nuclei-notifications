@@ -72,6 +72,7 @@ code/windows/audit/winrm-enabled.yaml
 code/windows/audit/winrm-remote-shell-access-allowed.yaml
 http/cves/2020/CVE-2020-24881.yaml
 http/cves/2022/CVE-2022-2130.yaml
+http/cves/2022/CVE-2022-24819.yaml
 http/cves/2022/CVE-2022-44356.yaml
 http/cves/2022/CVE-2022-48164.yaml
 http/cves/2022/CVE-2022-48166.yaml
@@ -85,6 +86,7 @@ http/cves/2024/CVE-2024-51482.yaml
 http/cves/2024/CVE-2024-9186.yaml
 http/cves/2024/CVE-2024-9474.yaml
 http/cves/2024/CVE-2024-9935.yaml
+http/exposed-panels/blue-yonder-panel.yaml
 http/exposed-panels/infoblox-nios-panel.yaml
 http/exposed-panels/tactical-rmm-panel.yaml
 http/exposed-panels/trendmicro-apexone-panel.yaml
