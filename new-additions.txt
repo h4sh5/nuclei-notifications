@@ -57,6 +57,7 @@ http/cves/2023/CVE-2023-3990.yaml
 http/cves/2023/CVE-2023-46455.yaml
 http/cves/2023/CVE-2023-50094.yaml
 http/cves/2023/CVE-2023-6697.yaml
+http/cves/2024/CVE-2024-10400.yaml
 http/cves/2024/CVE-2024-10516.yaml
 http/cves/2024/CVE-2024-11305.yaml
 http/cves/2024/CVE-2024-12209.yaml
@@ -68,6 +69,8 @@ http/cves/2024/CVE-2024-45293.yaml
 http/cves/2024/CVE-2024-48307.yaml
 http/cves/2024/CVE-2024-50623.yaml
 http/cves/2024/CVE-2024-52433.yaml
+http/cves/2024/CVE-2024-52875.yaml
+http/cves/2024/CVE-2024-55956.yaml
 http/cves/2024/CVE-2024-8856.yaml
 http/exposed-panels/huginn-panel.yaml
 http/exposures/backups/backup-directory-listing.yaml
@@ -107,6 +110,8 @@ http/exposures/tokens/yandex/yandex-access-token.yaml
 http/exposures/tokens/yandex/yandex-api-key.yaml
 http/exposures/tokens/yandex/yandex-aws-access-token.yaml
 http/technologies/hue-wireless-lighting.yaml
+http/technologies/wordpress/plugins/hunk-companion.yaml
+http/token-spray/api-jotform.yaml
 http/vulnerabilities/dlink/dlink-nas-rce.yaml
 http/vulnerabilities/feiyuxing/feiyuxing-ent-router-infoleak.yaml
 http/vulnerabilities/mingsoft/mcms-list-sqli.yaml
