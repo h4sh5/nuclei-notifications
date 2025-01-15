@@ -12,11 +12,13 @@ http/cves/2024/CVE-2024-55218.yaml
 http/cves/2024/CVE-2024-55457.yaml
 http/cves/2024/CVE-2024-56145.yaml
 http/cves/2024/CVE-2024-56512.yaml
+http/cves/2024/CVE-2024-9047.yaml
 http/cves/2024/CVE-2024-9264.yaml
 http/cves/2024/CVE-2024-9989.yaml
 http/exposed-panels/cloudlog-panel.yaml
 http/exposed-panels/i-librarian-panel.yaml
 http/exposed-panels/stirling-pdf-panel.yaml
+http/exposed-panels/yunohost-admin-panel.yaml
 http/exposures/files/javascript-env.yaml
 http/exposures/tokens/sonarqube/sonarqube-cloud-token.yaml
 http/misconfiguration/symfony/symfony-default-key-rce.yaml
@@ -36,3 +38,4 @@ http/vulnerabilities/other/jeeplus-cms-resetpassword-sqli.yaml
 http/vulnerabilities/other/xhibiter-nft-sqli.yaml
 javascript/cves/2021/CVE-2021-35394.yaml
 network/cves/2023/CVE-2023-48788.yaml
+network/misconfig/lantronix-xport-unauth.yaml
