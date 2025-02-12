@@ -1,11 +1,15 @@
 file/keys/shopify-shared-secret-key.yaml
 http/cves/2021/CVE-2021-45793.yaml
+http/cves/2022/CVE-2022-25226.yaml
+http/cves/2022/CVE-2022-26271.yaml
+http/cves/2022/CVE-2022-3766.yaml
 http/cves/2024/CVE-2024-10812.yaml
 http/cves/2024/CVE-2024-10908.yaml
 http/cves/2024/CVE-2024-11044.yaml
 http/cves/2024/CVE-2024-12760.yaml
 http/cves/2024/CVE-2024-24759.yaml
 http/cves/2024/CVE-2024-27115.yaml
+http/cves/2024/CVE-2024-45591.yaml
 http/cves/2024/CVE-2024-46507.yaml
 http/cves/2024/CVE-2024-5082.yaml
 http/cves/2024/CVE-2024-50967.yaml
