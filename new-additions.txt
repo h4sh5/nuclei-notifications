@@ -1,6 +1,7 @@
 code/cves/2024/CVE-2024-55556.yaml
 http/cves/2023/CVE-2023-5974.yaml
 http/cves/2023/CVE-2024-13624.yaml
+http/cves/2024/CVE-2024-11740.yaml
 http/cves/2024/CVE-2024-13853.yaml
 http/cves/2024/CVE-2024-4399.yaml
 http/cves/2024/CVE-2024-52762.yaml
@@ -13,7 +14,9 @@ http/cves/2024/CVE-2024-57050.yaml
 http/cves/2024/CVE-2024-6651.yaml
 http/cves/2024/CVE-2024-6892.yaml
 http/cves/2025/CVE-2025-1323.yaml
+http/cves/2025/CVE-2025-1661.yaml
 http/cves/2025/CVE-2025-26319.yaml
 http/exposures/logs/vugex-source-detect.yaml
 http/technologies/wordpress/plugins/unlimited-elements-for-elementor.yaml
 http/vulnerabilities/netgear/netgear-wnr614-auth-bypass.yaml
+http/vulnerabilities/other/mockoon-lfi.yaml
