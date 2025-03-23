@@ -35,6 +35,7 @@ http/cves/2025/CVE-2025-26319.yaml
 http/default-logins/chirpstack/chirpstack-default-login.yaml
 http/exposed-panels/chirpstack-login.yaml
 http/exposed-panels/dbt-docs-panel.yaml
+http/exposed-panels/vectoradmin-panel.yaml
 http/exposures/files/dnsmasq-config.yaml
 http/exposures/files/elastic-kibana-config.yaml
 http/exposures/files/gunicorn-config-file.yaml
@@ -46,6 +47,7 @@ http/exposures/files/next-js-config-file.yaml
 http/exposures/files/nuxtjs-config-file.yaml
 http/exposures/files/vercel-config-file.yaml
 http/exposures/logs/vugex-source-detect.yaml
+http/misconfiguration/kentico-13-auth-bypass-wt-2025-0006.yaml
 http/misconfiguration/kentico-13-auth-bypass-wt-2025-0011.yaml
 http/technologies/flutter-web-detect.yaml
 http/technologies/oqtane-db-detect.yaml
