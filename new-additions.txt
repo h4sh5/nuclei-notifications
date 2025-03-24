@@ -31,6 +31,7 @@ http/cves/2024/CVE-2024-6651.yaml
 http/cves/2024/CVE-2024-6892.yaml
 http/cves/2025/CVE-2025-1323.yaml
 http/cves/2025/CVE-2025-1661.yaml
+http/cves/2025/CVE-2025-2129.yaml
 http/cves/2025/CVE-2025-24813.yaml
 http/cves/2025/CVE-2025-26319.yaml
 http/cves/2025/CVE-2025-29927.yaml
@@ -53,6 +54,7 @@ http/exposures/logs/vugex-source-detect.yaml
 http/misconfiguration/installer/basercms-install.yaml
 http/misconfiguration/kentico-13-auth-bypass-wt-2025-0006.yaml
 http/misconfiguration/kentico-13-auth-bypass-wt-2025-0011.yaml
+http/technologies/apache/apache-hertzbeat-detect.yaml
 http/technologies/flutter-web-detect.yaml
 http/technologies/oqtane-db-detect.yaml
 http/technologies/wordpress/plugins/pagelayer.yaml
@@ -60,3 +62,4 @@ http/technologies/wordpress/plugins/unlimited-elements-for-elementor.yaml
 http/vulnerabilities/drupal/drupal7-elfinder-rce.yaml
 http/vulnerabilities/netgear/netgear-wnr614-auth-bypass.yaml
 http/vulnerabilities/other/mockoon-lfi.yaml
+http/vulnerabilities/other/siam-xss.yaml
