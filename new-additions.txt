@@ -6,6 +6,7 @@ headless/cves/2025/CVE-2025-29927-HEADLESS.yaml
 http/cves/2023/CVE-2023-2256.yaml
 http/cves/2023/CVE-2023-22952.yaml
 http/cves/2023/CVE-2023-2518.yaml
+http/cves/2023/CVE-2023-31478.yaml
 http/cves/2023/CVE-2023-4284.yaml
 http/cves/2023/CVE-2023-49489.yaml
 http/cves/2023/CVE-2023-5974.yaml
@@ -51,6 +52,7 @@ http/exposures/files/next-js-config-file.yaml
 http/exposures/files/nuxtjs-config-file.yaml
 http/exposures/files/vercel-config-file.yaml
 http/exposures/logs/vugex-source-detect.yaml
+http/misconfiguration/hashicorp-consul-unauth.yaml
 http/misconfiguration/installer/basercms-install.yaml
 http/misconfiguration/kentico-13-auth-bypass-wt-2025-0006.yaml
 http/misconfiguration/kentico-13-auth-bypass-wt-2025-0011.yaml
