@@ -1,7 +1,9 @@
 file/android/android-user-certificates-trust.yaml
 http/cves/2023/CVE-2023-22047.yaml
 http/cves/2023/CVE-2023-4490.yaml
+http/cves/2023/CVE-2023-7246.yaml
 http/cves/2024/CVE-2024-10486.yaml
+http/cves/2024/CVE-2024-13126.yaml
 http/cves/2024/CVE-2024-56325.yaml
 http/cves/2024/CVE-2024-7314.yaml
 http/cves/2025/CVE-2025-2294.yaml
@@ -9,6 +11,7 @@ http/cves/2025/CVE-2025-24799.yaml
 http/cves/2025/CVE-2025-2748.yaml
 http/cves/2025/CVE-2025-30567.yaml
 http/cves/2025/CVE-2025-31131.yaml
+http/exposures/configs/3cx-config.yaml
 http/exposures/configs/fastcgi-config.yaml
 http/misconfiguration/prometheus/prometheus-unauth.yaml
 http/technologies/couchdb-detect.yaml
