@@ -27,9 +27,12 @@ http/cves/2024/CVE-2024-55591.yaml
 http/cves/2024/CVE-2024-56325.yaml
 http/cves/2024/CVE-2024-7313.yaml
 http/cves/2024/CVE-2024-7314.yaml
+http/cves/2025/CVE-2025-1097.yaml
+http/cves/2025/CVE-2025-1098.yaml
 http/cves/2025/CVE-2025-2075.yaml
 http/cves/2025/CVE-2025-2264.yaml
 http/cves/2025/CVE-2025-2294.yaml
+http/cves/2025/CVE-2025-24514.yaml
 http/cves/2025/CVE-2025-24799.yaml
 http/cves/2025/CVE-2025-2563.yaml
 http/cves/2025/CVE-2025-2748.yaml
@@ -37,9 +40,12 @@ http/cves/2025/CVE-2025-29085.yaml
 http/cves/2025/CVE-2025-30567.yaml
 http/cves/2025/CVE-2025-31125.yaml
 http/cves/2025/CVE-2025-31131.yaml
+http/cves/2025/CVE-2025-32101.yaml
+http/cves/2025/CVE-2025-3248.yaml
 http/exposed-panels/adfinity-panel.yaml
 http/exposed-panels/dependency-track-panel.yaml
 http/exposed-panels/fortiswitch-panel.yaml
+http/exposed-panels/gladinet-centrestack-panel.yaml
 http/exposed-panels/tibco-mft-panel.yaml
 http/exposures/configs/3cx-config.yaml
 http/exposures/configs/cpanel-config.yaml
