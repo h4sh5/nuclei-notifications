@@ -37,6 +37,7 @@ http/default-logins/wago/wago-webbased-default-login.yaml
 http/exposed-panels/aperio-eslidemanager-panel.yaml
 http/exposed-panels/mbilling-panel.yaml
 http/exposed-panels/osasi-panel.yaml
+http/exposed-panels/polarion-siemens-panel.yaml
 http/exposed-panels/sap-netweaver-cet-detect.yaml
 http/iot/cae-monitor-panel.yaml
 http/iot/etic-telecom-panel.yaml
@@ -44,6 +45,7 @@ http/iot/moxa-vpn-router-panel.yaml
 http/iot/siemens-logo8-panel.yaml
 http/iot/siemens-simatic-panel.yaml
 http/iot/wago-webbased-panel.yaml
+http/misconfiguration/installer/emby-installer.yaml
 http/misconfiguration/traccar-settings-disclosure.yaml
 http/technologies/docker-registry-browser-detect.yaml
 http/technologies/plantumlserver-detect.yaml
