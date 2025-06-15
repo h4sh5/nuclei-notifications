@@ -1,5 +1,8 @@
 code/audit/cis/ubuntu/ssh-hostbasedauth-disabled.yaml
 code/cves/2024/CVE-2024-10443.yaml
+file/android/android-minsdk-21.yaml
+http/cves/2014/CVE-2014-9735.yaml
+http/cves/2015/CVE-2015-9499.yaml
 http/cves/2017/CVE-2017-14942.yaml
 http/cves/2017/CVE-2017-8046.yaml
 http/cves/2018/CVE-2018-11133.yaml
@@ -71,6 +74,7 @@ http/cves/2025/CVE-2025-49113.yaml
 http/cves/2025/CVE-2025-5086.yaml
 http/default-logins/apc-nmc/apc-nmc-default-login.yaml
 http/default-logins/joplin/joplin-default-login.yaml
+http/default-logins/rocketlms/rocketlms-default-login.yaml
 http/exposed-panels/apex-central-panel.yaml
 http/exposed-panels/cisco/cisco-ise-admin-panel.yaml
 http/exposed-panels/fortirecorder-panel.yaml
