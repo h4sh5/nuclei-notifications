@@ -10,6 +10,7 @@ http/cves/2019/CVE-2019-25141.yaml
 http/cves/2019/CVE-2019-9757.yaml
 http/cves/2019/CVE-2019-9762.yaml
 http/cves/2019/CVE-2019-9879.yaml
+http/cves/2020/CVE-2020-10987.yaml
 http/cves/2020/CVE-2020-12262.yaml
 http/cves/2020/CVE-2020-12641.yaml
 http/cves/2020/CVE-2020-13886.yaml
@@ -31,6 +32,7 @@ http/cves/2022/CVE-2022-0783.yaml
 http/cves/2022/CVE-2022-1026.yaml
 http/cves/2022/CVE-2022-25061.yaml
 http/cves/2022/CVE-2022-37061.yaml
+http/cves/2023/CVE-2023-25280.yaml
 http/cves/2023/CVE-2023-27637.yaml
 http/cves/2023/CVE-2023-27638.yaml
 http/cves/2023/CVE-2023-2986.yaml
@@ -48,6 +50,7 @@ http/cves/2024/CVE-2024-24329.yaml
 http/cves/2024/CVE-2024-2667.yaml
 http/cves/2024/CVE-2024-30163.yaml
 http/cves/2024/CVE-2024-33559.yaml
+http/cves/2024/CVE-2024-36858.yaml
 http/cves/2024/CVE-2024-4620.yaml
 http/cves/2024/CVE-2024-47073.yaml
 http/cves/2024/CVE-2024-51211.yaml
@@ -58,6 +61,7 @@ http/cves/2025/CVE-2025-0107.yaml
 http/cves/2025/CVE-2025-0133.yaml
 http/cves/2025/CVE-2025-0674.yaml
 http/cves/2025/CVE-2025-20188.yaml
+http/cves/2025/CVE-2025-27134.yaml
 http/cves/2025/CVE-2025-4008.yaml
 http/cves/2025/CVE-2025-4009.yaml
 http/cves/2025/CVE-2025-4322.yaml
@@ -94,4 +98,5 @@ http/technologies/wordpress/plugins/siteseo.yaml
 http/technologies/wordpress/plugins/unlimited-elements-for-elementor.yaml
 http/technologies/wordpress/plugins/wordpress-plugin-detect.yaml
 http/technologies/wordpress/themes/wordpress-theme-detect.yaml
+http/vulnerabilities/others/raisecom-rce.yaml
 passive/cves/2018/CVE-2018-17207.yaml
