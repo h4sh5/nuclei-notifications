@@ -9,6 +9,7 @@ http/cves/2025/CVE-2025-44148.yaml
 http/cves/2025/CVE-2025-45854.yaml
 http/cves/2025/CVE-2025-47423.yaml
 http/cves/2025/CVE-2025-47646.yaml
+http/cves/2025/CVE-2025-49132.yaml
 http/cves/2025/CVE-2025-5569.yaml
 http/default-logins/activemq/activemq-artemis-default-login.yaml
 http/default-logins/apache/airflow-v3-default-login.yaml
@@ -18,6 +19,7 @@ http/default-logins/opensearch-default-login.yaml
 http/default-logins/photoprism-default-login.yaml
 http/exposed-panels/motive-eim-panel.yaml
 http/exposed-panels/opensearch-dashboard-panel.yaml
+http/exposed-panels/pterodactyl-panel.yaml
 http/exposed-panels/teleport-login-panel.yaml
 http/exposed-panels/tools4ever-ssrpm-panel.yaml
 http/miscellaneous/discord-invite-detect.yaml
