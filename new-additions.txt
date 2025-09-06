@@ -1,3 +1,4 @@
+headless/cves/2025/CVE-2025-50738.yaml
 http/cves/2024/CVE-2024-11972.yaml
 http/cves/2024/CVE-2024-29028.yaml
 http/cves/2024/CVE-2024-29029.yaml
@@ -9,7 +10,14 @@ http/cves/2025/CVE-2025-57822.yaml
 http/exposures/configs/n8n-config.yaml
 http/global-matchers/global-waf-detect.yaml
 http/misconfiguration/missing-cookie-samesite-strict.yaml
+http/takeovers/framer-takeover.yaml
 http/technologies/dkron-detect.yaml
+http/technologies/hugegraph-studio-detect.yaml
 http/vulnerabilities/other/dkron-unauth-rce.yaml
+javascript/detection/pigeonhole-sieve-detect.yaml
+javascript/misconfiguration/netstat-service-expose.yaml
+javascript/udp/detection/zeroconf-detect.yaml
 network/detection/ftp-detect.yaml
+network/detection/sap-dispatcher-detect.yaml
+network/detection/sap-router-detect.yaml
 workflows/ftp-workflow.yaml
