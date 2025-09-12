@@ -14,6 +14,7 @@ http/cves/2024/CVE-2024-51568.yaml
 http/cves/2024/CVE-2024-8425.yaml
 http/cves/2025/CVE-2025-23061.yaml
 http/cves/2025/CVE-2025-3515.yaml
+http/cves/2025/CVE-2025-3605.yaml
 http/cves/2025/CVE-2025-53118.yaml
 http/cves/2025/CVE-2025-57819.yaml
 http/cves/2025/CVE-2025-57822.yaml
@@ -31,10 +32,12 @@ http/takeovers/framer-takeover.yaml
 http/technologies/apache/apache-streampark-detect.yaml
 http/technologies/dkron-detect.yaml
 http/technologies/hugegraph-studio-detect.yaml
+http/technologies/teccom-openmessaging-detect.yaml
 http/vulnerabilities/backdoor/freepbx-cleanup-backdoor.yaml
 http/vulnerabilities/other/dkron-unauth-rce.yaml
 http/vulnerabilities/phoenix-contact/phoenix-contact-charx-multiple-vulnerabilities.yaml
 javascript/detection/pigeonhole-sieve-detect.yaml
+javascript/detection/rlogin-detect.yaml
 javascript/misconfiguration/netstat-service-expose.yaml
 javascript/udp/detection/zeroconf-detect.yaml
 javascript/udp/misconfiguration/snmpv1-community-detect-string.yaml
