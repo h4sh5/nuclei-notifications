@@ -1,6 +1,8 @@
 headless/cves/2025/CVE-2025-50738.yaml
 http/cves/2014/CVE-2014-8739.yaml
 http/cves/2016/CVE-2016-15042.yaml
+http/cves/2019/CVE-2019-15774.yaml
+http/cves/2019/CVE-2019-17228.yaml
 http/cves/2019/CVE-2019-17230.yaml
 http/cves/2019/CVE-2019-17231.yaml
 http/cves/2019/CVE-2019-7195.yaml
@@ -15,6 +17,7 @@ http/cves/2020/CVE-2020-36836.yaml
 http/cves/2021/CVE-2021-24170.yaml
 http/cves/2021/CVE-2021-24644.yaml
 http/cves/2021/CVE-2021-24876.yaml
+http/cves/2021/CVE-2021-24878.yaml
 http/cves/2021/CVE-2021-34624.yaml
 http/cves/2022/CVE-2022-0429.yaml
 http/cves/2022/CVE-2022-2461.yaml
