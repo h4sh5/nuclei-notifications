@@ -1,6 +1,7 @@
 code/windows/enumeration/rdp-ntlm-info.yaml
 http/cves/2015/CVE-2015-9406.yaml
 http/cves/2016/CVE-2016-10972.yaml
+http/cves/2018/CVE-2018-1217.yaml
 http/cves/2019/CVE-2019-11886.yaml
 http/cves/2019/CVE-2019-17232.yaml
 http/cves/2019/CVE-2019-7276.yaml
@@ -37,9 +38,11 @@ http/cves/2024/CVE-2024-31839.yaml
 http/cves/2025/CVE-2025-10035.yaml
 http/cves/2025/CVE-2025-49825.yaml
 http/cves/2025/CVE-2025-54249.yaml
+http/cves/2025/CVE-2025-54251.yaml
 http/cves/2025/CVE-2025-59474.yaml
 http/cves/2025/CVE-2025-6204.yaml
 http/cves/2025/CVE-2025-6205.yaml
+http/default-logins/mitel/mitel-6000-default-login.yaml
 http/exposed-panels/allegro-rompager-panel.yaml
 http/exposures/apis/tolgee-api.yaml
 http/misconfiguration/graphql/graphql-directive-overloading.yaml
