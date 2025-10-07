@@ -7,6 +7,8 @@ http/cves/2018/CVE-2018-1217.yaml
 http/cves/2019/CVE-2019-11886.yaml
 http/cves/2019/CVE-2019-17232.yaml
 http/cves/2019/CVE-2019-18952.yaml
+http/cves/2019/CVE-2019-25152.yaml
+http/cves/2019/CVE-2019-6703.yaml
 http/cves/2019/CVE-2019-7276.yaml
 http/cves/2019/CVE-2019-9621.yaml
 http/cves/2020/CVE-2020-13640.yaml
@@ -64,14 +66,18 @@ http/exposed-panels/allegro-rompager-panel.yaml
 http/exposed-panels/gocontrol-admin-panel.yaml
 http/exposed-panels/national-instruments/ni-web-based-panel.yaml
 http/exposures/apis/postman-collection-exposure.yaml
+http/exposures/apis/redoc-api-docs.yaml
 http/exposures/apis/tolgee-api.yaml
 http/exposures/tokens/pinata/pinata-api-key.yaml
 http/iot/labview-service-locator-enum.yaml
+http/misconfiguration/graphql/graphql-apollo-sandbox.yaml
 http/misconfiguration/graphql/graphql-directive-overloading.yaml
 http/misconfiguration/graphql/graphql-voyager.yaml
+http/misconfiguration/mfp-unauth-exposure.yaml
 http/misconfiguration/symfony/symfony-conflicting-misconfig.yaml
 http/misconfiguration/tolgee-api-anonymous.yaml
 http/misconfiguration/unauth-pactbroker.yaml
+http/misconfiguration/vault/vault-unsealed-unauth.yaml
 http/misconfiguration/weaviate-exposure.yaml
 http/osint/phishing/bank-central-asia-phish.yaml
 http/osint/user-enumeration/bsky.yaml
@@ -80,6 +86,7 @@ http/osint/user-enumeration/mastodon-social-vivaldi.yaml
 http/osint/user-enumeration/moto-trip.yaml
 http/osint/user-enumeration/wordpress-site.yaml
 http/technologies/meteobridge-detect.yaml
+http/technologies/woodpecker-detect.yaml
 http/vulnerabilities/churchcrm/churchcrm-xss.yaml
 http/vulnerabilities/other/justboil-me-image-upload.yaml
 http/vulnerabilities/other/p7-office-xss.yaml
