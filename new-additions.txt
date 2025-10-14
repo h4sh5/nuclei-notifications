@@ -1,4 +1,5 @@
 http/cves/2015/CVE-2015-10141.yaml
+http/cves/2017/CVE-2017-20194.yaml
 http/cves/2017/CVE-2017-9965.yaml
 http/cves/2018/CVE-2018-25114.yaml
 http/cves/2019/CVE-2019-9874.yaml
@@ -18,6 +19,7 @@ http/cves/2021/CVE-2021-37292.yaml
 http/cves/2021/CVE-2021-38154.yaml
 http/cves/2022/CVE-2022-24682.yaml
 http/cves/2022/CVE-2022-31181.yaml
+http/cves/2022/CVE-2022-31711.yaml
 http/cves/2022/CVE-2022-37122.yaml
 http/cves/2022/CVE-2022-38812.yaml
 http/cves/2022/CVE-2022-43939.yaml
@@ -37,6 +39,7 @@ http/exposed-panels/thingsboard-panel.yaml
 http/exposures/tokens/amazon/aws-secret-key.yaml
 http/exposures/tokens/elastic/elastic-cloud-api-key.yaml
 http/exposures/tokens/openai/openai-admin-api-key.yaml
+http/misconfiguration/installer/kace-sma-installer.yaml
 javascript/cves/2023/CVE-2023-21839.yaml
 javascript/cves/2025/CVE-2025-46817.yaml
 javascript/cves/2025/CVE-2025-46818.yaml
