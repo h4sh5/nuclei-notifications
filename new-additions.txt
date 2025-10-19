@@ -39,6 +39,8 @@ http/cves/2022/CVE-2022-43939.yaml
 http/cves/2022/CVE-2022-48323.yaml
 http/cves/2023/CVE-2023-30194.yaml
 http/cves/2023/CVE-2023-34133.yaml
+http/cves/2023/CVE-2023-3519.yaml
+http/cves/2023/CVE-2023-6655.yaml
 http/cves/2024/CVE-2024-10708.yaml
 http/cves/2024/CVE-2024-35286.yaml
 http/cves/2024/CVE-2024-42009.yaml
@@ -49,6 +51,7 @@ http/cves/2025/CVE-2025-25034.yaml
 http/cves/2025/CVE-2025-25037.yaml
 http/cves/2025/CVE-2025-55747.yaml
 http/cves/2025/CVE-2025-5701.yaml
+http/cves/2025/CVE-2025-57808.yaml
 http/cves/2025/CVE-2025-58751.yaml
 http/cves/2025/CVE-2025-59049.yaml
 http/cves/2025/CVE-2025-61666.yaml
@@ -61,6 +64,7 @@ http/exposed-panels/skysea-panel.yaml
 http/exposed-panels/telecontrol-server-basic-panel.yaml
 http/exposed-panels/thingsboard-panel.yaml
 http/exposures/apis/asyncapi-inventory.yaml
+http/exposures/configs/nextjs-vite-public-env.yaml
 http/exposures/tokens/amazon/aws-secret-key.yaml
 http/exposures/tokens/elastic/elastic-cloud-api-key.yaml
 http/exposures/tokens/heroku/heroku-oauth2-token.yaml
