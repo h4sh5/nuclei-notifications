@@ -19,6 +19,7 @@ http/cves/2021/CVE-2021-20086.yaml
 http/cves/2021/CVE-2021-26072.yaml
 http/cves/2021/CVE-2021-27856.yaml
 http/cves/2021/CVE-2021-27858.yaml
+http/cves/2021/CVE-2021-30116.yaml
 http/cves/2021/CVE-2021-30118.yaml
 http/cves/2021/CVE-2021-3018.yaml
 http/cves/2021/CVE-2021-32478.yaml
@@ -81,6 +82,7 @@ http/misconfiguration/shibboleth-open-redirect.yaml
 http/misconfiguration/unauth-ckfinder.yaml
 http/misconfiguration/unauth-esphome.yaml
 http/takeovers/redirect-pizza-takeover.yaml
+http/technologies/enigma-nms-detect.yaml
 javascript/cves/2010/CVE-2010-20103.yaml
 javascript/cves/2020/CVE-2020-2883.yaml
 javascript/cves/2023/CVE-2023-21839.yaml
