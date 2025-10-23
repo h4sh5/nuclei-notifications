@@ -1,5 +1,6 @@
 cloud/kubernetes/security-compliance/k8s-apiserver-anonymous-access.yaml
 cloud/kubernetes/security-compliance/k8s-apiserver-token-auth-file.yaml
+code/cves/2025/CVE-2025-9242.yaml
 http/cves/2010/CVE-2010-2018.yaml
 http/cves/2015/CVE-2015-10141.yaml
 http/cves/2017/CVE-2017-20194.yaml
@@ -10,6 +11,7 @@ http/cves/2018/CVE-2018-15811.yaml
 http/cves/2018/CVE-2018-17173.yaml
 http/cves/2018/CVE-2018-18325.yaml
 http/cves/2018/CVE-2018-25114.yaml
+http/cves/2019/CVE-2019-12989.yaml
 http/cves/2019/CVE-2019-9874.yaml
 http/cves/2020/CVE-2020-10257.yaml
 http/cves/2020/CVE-2020-20601.yaml
@@ -18,6 +20,7 @@ http/cves/2020/CVE-2020-22165.yaml
 http/cves/2020/CVE-2020-29279.yaml
 http/cves/2020/CVE-2020-4427.yaml
 http/cves/2021/CVE-2021-20086.yaml
+http/cves/2021/CVE-2021-24220.yaml
 http/cves/2021/CVE-2021-26072.yaml
 http/cves/2021/CVE-2021-27856.yaml
 http/cves/2021/CVE-2021-27858.yaml
@@ -43,6 +46,7 @@ http/cves/2022/CVE-2022-48323.yaml
 http/cves/2023/CVE-2023-30194.yaml
 http/cves/2023/CVE-2023-34133.yaml
 http/cves/2023/CVE-2023-3519.yaml
+http/cves/2023/CVE-2023-40044.yaml
 http/cves/2023/CVE-2023-6655.yaml
 http/cves/2024/CVE-2024-10708.yaml
 http/cves/2024/CVE-2024-13979.yaml
