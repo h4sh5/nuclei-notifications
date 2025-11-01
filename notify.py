@@ -8,6 +8,7 @@ from urllib.parse import quote_plus
 
 # discord webhook
 WEBHOOK = os.getenv("WEBHOOK")
+WEBHOOK1 = os.getenv("WEBHOOK1")
 SHODAN_API = os.getenv("SHODAN_API")
 
 r = requests.get('https://github.com/projectdiscovery/nuclei-templates/raw/main/.new-additions')
@@ -126,4 +127,6 @@ for m in messages:
 	print(m)
 	if WEBHOOK != None:
 		r = requests.post(WEBHOOK, json={"content":m})
+	if WEBHOOK1 != None:
+		r = requests.post(WEBHOOK1, json={"content":m})
 
