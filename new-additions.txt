@@ -20,6 +20,8 @@ http/cves/2025/CVE-2025-1302.yaml
 http/cves/2025/CVE-2025-24354.yaml
 http/cves/2025/CVE-2025-32429.yaml
 http/cves/2025/CVE-2025-41243.yaml
+http/cves/2025/CVE-2025-44136.yaml
+http/cves/2025/CVE-2025-44137.yaml
 http/cves/2025/CVE-2025-51482.yaml
 http/cves/2025/CVE-2025-52472.yaml
 http/cves/2025/CVE-2025-52665.yaml
@@ -36,12 +38,14 @@ http/cves/2025/CVE-2025-64095.yaml
 http/cves/2025/CVE-2025-9985.yaml
 http/default-logins/churchcrm/churchcrm-default-login.yaml
 http/exposed-panels/churchcrm-panel.yaml
+http/exposed-panels/unifi-os-panel.yaml
 http/exposures/backups/generic-php-files.yaml
 http/misconfiguration/aem/aem-dispatcher-bypass.yaml
 http/misconfiguration/aem/aem-querybuilder-bypass.yaml
 http/misconfiguration/installer/churchcrm-installer.yaml
 http/misconfiguration/tomcat-snoop-servlet-exposed.yaml
 http/takeovers/mailgun-takeover.yaml
+http/vulnerabilities/bentoml-ssrf.yaml
 http/vulnerabilities/generic/xss-uri-reflected.yaml
 http/vulnerabilities/gradio-image-ssrf.yaml
 http/vulnerabilities/gradio-lfi.yaml
