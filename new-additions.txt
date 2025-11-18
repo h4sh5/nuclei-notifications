@@ -23,6 +23,7 @@ code/macos/audit/sip-disabled.yaml
 code/macos/audit/ssh-service-running.yaml
 code/macos/audit/suid-sgid-files.yaml
 code/misconfiguration/dns-axfr-enabled.yaml
+dns/dkim-record-detect.yaml
 file/android/deep-link-custom-scheme-detect.yaml
 file/android/exported-activities.yaml
 file/android/exported-broadcast-receivers.yaml
@@ -98,6 +99,11 @@ http/misconfiguration/servicenow-stats-page.yaml
 http/misconfiguration/servicenow-threads-page.yaml
 http/misconfiguration/tomcat-snoop-servlet-exposed.yaml
 http/takeovers/mailgun-takeover.yaml
+http/technologies/cherrypy-detect.yaml
+http/technologies/hedgedoc-detect.yaml
+http/technologies/intel-amt-detect.yaml
+http/technologies/ipswitch-imail-detect.yaml
+http/technologies/lighttpd-detect.yaml
 http/vulnerabilities/bentoml-ssrf.yaml
 http/vulnerabilities/generic/xss-uri-reflected.yaml
 http/vulnerabilities/gradio-image-ssrf.yaml
