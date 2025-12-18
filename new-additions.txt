@@ -35,6 +35,7 @@ http/exposures/apis/ambassador-api-diagnostics-exposure.yaml
 http/exposures/backups/wordpress-db-exposure.yaml
 http/exposures/configs/codekit-config-exposure.yaml
 http/exposures/configs/glimpse-data-exposure.yaml
+http/exposures/configs/node-repl-history-disclosure.yaml
 http/exposures/configs/phpci-yml.yaml
 http/exposures/configs/python-setup-config.yaml
 http/exposures/configs/xampp-phpinfo-detect.yaml
@@ -57,6 +58,7 @@ http/misconfiguration/wordpress/wp-maintenance-mode-fpd.yaml
 http/misconfiguration/wordpress/wp-members-error-log-disclosure.yaml
 http/misconfiguration/wordpress/wp-oceanwp-fpd.yaml
 http/misconfiguration/wordpress/wp-rank-math-seo-fpd.yaml
+http/misconfiguration/wordpress/wp-safe-svg-fpd.yaml
 http/misconfiguration/wordpress/wp-the-events-calendar-fpd.yaml
 http/misconfiguration/x-backend-server-header-detect.yaml
 http/technologies/fastcgi-test-page.yaml
@@ -74,6 +76,7 @@ http/vulnerabilities/wordpress/wp-easy-fancybox-fpd.yaml
 http/vulnerabilities/wordpress/wp-google-analytics-fpd.yaml
 http/vulnerabilities/wordpress/wp-google-site-kit-fpd.yaml
 http/vulnerabilities/wordpress/wp-googlecaptcha-fpd.yaml
+http/vulnerabilities/wordpress/wp-hello-dolly-fpd.yaml
 http/vulnerabilities/wordpress/wp-intuitive-custom-post-order-fpd.yaml
 http/vulnerabilities/wordpress/wp-megamenu-fpd.yaml
 http/vulnerabilities/wordpress/wp-newsletter-fpd.yaml
