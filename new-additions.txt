@@ -9,6 +9,7 @@ http/cves/2020/CVE-2020-26836.yaml
 http/cves/2021/CVE-2021-2135.yaml
 http/cves/2021/CVE-2021-24657.yaml
 http/cves/2021/CVE-2021-24681.yaml
+http/cves/2021/CVE-2021-25082.yaml
 http/cves/2021/CVE-2021-35042.yaml
 http/cves/2021/CVE-2021-37415.yaml
 http/cves/2022/CVE-2022-1029.yaml
@@ -51,7 +52,9 @@ http/misconfiguration/wordpress/wordpress-cmb2-fpd.yaml
 http/misconfiguration/wordpress/wp-cookie-law-info-fpd.yaml
 http/misconfiguration/wordpress/wp-maintenance-mode-fpd.yaml
 http/misconfiguration/wordpress/wp-members-error-log-disclosure.yaml
+http/misconfiguration/wordpress/wp-the-events-calendar-fpd.yaml
 http/misconfiguration/x-backend-server-header-detect.yaml
+http/technologies/fastcgi-test-page.yaml
 http/vulnerabilities/wordpress/wp-acf-fpd.yaml
 http/vulnerabilities/wordpress/wp-admin-menu-editor-fpd.yaml
 http/vulnerabilities/wordpress/wp-all-in-one-seo-pack-fpd.yaml
