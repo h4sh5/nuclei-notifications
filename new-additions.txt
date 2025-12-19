@@ -12,6 +12,7 @@ http/cves/2021/CVE-2021-2135.yaml
 http/cves/2021/CVE-2021-24657.yaml
 http/cves/2021/CVE-2021-24681.yaml
 http/cves/2021/CVE-2021-25082.yaml
+http/cves/2021/CVE-2021-3007.yaml
 http/cves/2021/CVE-2021-33829.yaml
 http/cves/2021/CVE-2021-35042.yaml
 http/cves/2021/CVE-2021-37415.yaml
@@ -39,6 +40,7 @@ http/cves/2025/CVE-2025-55184.yaml
 http/cves/2025/CVE-2025-55749.yaml
 http/cves/2025/CVE-2025-56266.yaml
 http/cves/2025/CVE-2025-56819.yaml
+http/cves/2025/CVE-2025-63387.yaml
 http/exposed-panels/cisco-esa-panel.yaml
 http/exposed-panels/temboard-panel.yaml
 http/exposures/apis/ambassador-api-diagnostics-exposure.yaml
@@ -70,14 +72,17 @@ http/misconfiguration/wordpress/wordpress-imsanity-fpd.yaml
 http/misconfiguration/wordpress/wp-astra-sites-fpd.yaml
 http/misconfiguration/wordpress/wp-beaver-builder-lite-version-fpd.yaml
 http/misconfiguration/wordpress/wp-cookie-law-info-fpd.yaml
+http/misconfiguration/wordpress/wp-image-widget-fpd.yaml
 http/misconfiguration/wordpress/wp-maintenance-mode-fpd.yaml
 http/misconfiguration/wordpress/wp-members-error-log-disclosure.yaml
 http/misconfiguration/wordpress/wp-oceanwp-fpd.yaml
 http/misconfiguration/wordpress/wp-rank-math-seo-fpd.yaml
 http/misconfiguration/wordpress/wp-safe-svg-fpd.yaml
 http/misconfiguration/wordpress/wp-simple-301-redirects-fpd.yaml
+http/misconfiguration/wordpress/wp-smushit-fpd.yaml
 http/misconfiguration/wordpress/wp-the-events-calendar-fpd.yaml
 http/misconfiguration/wordpress/wp-toc-plus-fpd.yaml
+http/misconfiguration/wordpress/wp-wordfence-fpd.yaml
 http/misconfiguration/wordpress/wp-wp-mail-smtp-fpd.yaml
 http/misconfiguration/wordpress/wp-yoast-seo-fpd.yaml
 http/misconfiguration/x-backend-server-header-detect.yaml
