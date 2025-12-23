@@ -13,6 +13,7 @@ http/cves/2020/CVE-2020-25200.yaml
 http/cves/2020/CVE-2020-26836.yaml
 http/cves/2021/CVE-2021-20617.yaml
 http/cves/2021/CVE-2021-2135.yaml
+http/cves/2021/CVE-2021-22175.yaml
 http/cves/2021/CVE-2021-24657.yaml
 http/cves/2021/CVE-2021-24681.yaml
 http/cves/2021/CVE-2021-25082.yaml
@@ -86,8 +87,11 @@ http/misconfiguration/nexus-repository-anonymous-access.yaml
 http/misconfiguration/vscode-slnx-sqlite-disclosure.yaml
 http/misconfiguration/wordpress/wordfence-rules-disclosure.yaml
 http/misconfiguration/wordpress/wordfence-waf-logs-disclosure.yaml
+http/misconfiguration/wordpress/wordpress-amp-fpd.yaml
 http/misconfiguration/wordpress/wordpress-cmb2-fpd.yaml
 http/misconfiguration/wordpress/wordpress-imsanity-fpd.yaml
+http/misconfiguration/wordpress/wordpress-storefront-fpd.yaml
+http/misconfiguration/wordpress/wp-add-to-any-fpd.yaml
 http/misconfiguration/wordpress/wp-astra-sites-fpd.yaml
 http/misconfiguration/wordpress/wp-beaver-builder-lite-version-fpd.yaml
 http/misconfiguration/wordpress/wp-cookie-law-info-fpd.yaml
@@ -95,12 +99,14 @@ http/misconfiguration/wordpress/wp-image-widget-fpd.yaml
 http/misconfiguration/wordpress/wp-iwp-client-fpd.yaml
 http/misconfiguration/wordpress/wp-maintenance-mode-fpd.yaml
 http/misconfiguration/wordpress/wp-members-error-log-disclosure.yaml
+http/misconfiguration/wordpress/wp-migrate-db-fpd.yaml
 http/misconfiguration/wordpress/wp-oceanwp-fpd.yaml
 http/misconfiguration/wordpress/wp-pretty-links-fpd.yaml
 http/misconfiguration/wordpress/wp-rank-math-seo-fpd.yaml
 http/misconfiguration/wordpress/wp-safe-svg-fpd.yaml
 http/misconfiguration/wordpress/wp-simple-301-redirects-fpd.yaml
 http/misconfiguration/wordpress/wp-smushit-fpd.yaml
+http/misconfiguration/wordpress/wp-svg-support-fpd.yaml
 http/misconfiguration/wordpress/wp-table-of-contents-plus-fpd.yaml
 http/misconfiguration/wordpress/wp-the-events-calendar-fpd.yaml
 http/misconfiguration/wordpress/wp-toc-plus-fpd.yaml
