@@ -2,6 +2,7 @@ dast/ai/ai-code-execution.yaml
 dast/ai/ai-data-exfiltration.yaml
 dast/ai/ai-prompt-injection.yaml
 dast/ai/ai-safety-bypass.yaml
+headless/mozilla-pdfjs-content-spoofing.yaml
 http/cves/2015/CVE-2015-8350.yaml
 http/cves/2017/CVE-2017-17762.yaml
 http/cves/2017/CVE-2017-18580.yaml
@@ -75,6 +76,7 @@ http/exposures/logs/wp-importer-log-disclosure.yaml
 http/exposures/logs/wp-pretty-link-log-disclosure.yaml
 http/exposures/logs/wp-wps-hide-login-log.yaml
 http/global-matchers/secrets-patterns-pii.yaml
+http/misconfiguration/apache/apache-mod-negotiation-listing.yaml
 http/misconfiguration/browserconfig-xml.yaml
 http/misconfiguration/buildpath-file-disclosure.yaml
 http/misconfiguration/eslint-ignore-exposure.yaml
