@@ -16,12 +16,14 @@ http/cves/2025/CVE-2025-8848.yaml
 http/exposed-panels/bitbucket-panel.yaml
 http/exposed-panels/librechat-login-panel.yaml
 http/exposed-panels/woodpecker-ci-panel.yaml
+http/exposed-panels/xspeeder-login.yaml
 http/exposures/configs/bash-config-exposure.yaml
 http/exposures/configs/exposed-gitmodules.yaml
 http/exposures/configs/flow-config-exposure.yaml
 http/exposures/configs/jfrog-artifactory-build-exposure.yaml
 http/exposures/configs/makefile-exposure.yaml
 http/exposures/configs/prettier-ignore-disclosure.yaml
+http/exposures/files/kcfinder-exposure.yaml
 http/exposures/files/python-requirements-disclosure.yaml
 http/exposures/files/rails-history-exposure.yaml
 http/exposures/logs/wp-newsletter-log-exposure.yaml
@@ -29,6 +31,8 @@ http/iot/flock-safety-camera-panel.yaml
 http/misconfiguration/bitrix-fpd.yaml
 http/misconfiguration/imageresizer-debug-exposure.yaml
 http/misconfiguration/installer/roundcube-installer-exposure.yaml
+http/misconfiguration/jboss-jmx-console-unauth.yaml
+http/misconfiguration/phpmyadmin/phpmyadmin-fpd.yaml
 http/misconfiguration/renovate-config-exposure.yaml
 http/misconfiguration/wordpress/wordfence-config-disclosure.yaml
 http/misconfiguration/wordpress/wp-members-log-disclosure.yaml
