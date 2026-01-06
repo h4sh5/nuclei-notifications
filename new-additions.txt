@@ -47,6 +47,7 @@ http/exposures/files/npmignore-disclosure.yaml
 http/exposures/files/postgres-credentials-exposure.yaml
 http/exposures/files/python-requirements-disclosure.yaml
 http/exposures/files/rails-history-exposure.yaml
+http/exposures/logs/oracle-ebs-sqllog-exposure.yaml
 http/exposures/logs/wp-enable-media-replace-log.yaml
 http/exposures/logs/wp-newsletter-log-exposure.yaml
 http/iot/flock-safety-camera-panel.yaml
@@ -55,6 +56,7 @@ http/misconfiguration/bitrix-fpd.yaml
 http/misconfiguration/imageresizer-debug-exposure.yaml
 http/misconfiguration/installer/roundcube-installer-exposure.yaml
 http/misconfiguration/jboss-jmx-console-unauth.yaml
+http/misconfiguration/joomla-fpd.yaml
 http/misconfiguration/phpmyadmin/phpmyadmin-fpd.yaml
 http/misconfiguration/renovate-config-exposure.yaml
 http/misconfiguration/wordpress/wordfence-config-disclosure.yaml
