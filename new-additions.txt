@@ -10,10 +10,12 @@ http/cves/2018/CVE-2018-9206.yaml
 http/cves/2019/CVE-2019-11253.yaml
 http/cves/2020/CVE-2020-13125.yaml
 http/cves/2021/CVE-2021-4448.yaml
+http/cves/2022/CVE-2022-27924.yaml
 http/cves/2022/CVE-2022-4940.yaml
 http/cves/2023/CVE-2023-27351.yaml
 http/cves/2023/CVE-2023-33193.yaml
 http/cves/2024/CVE-2024-28986.yaml
+http/cves/2024/CVE-2024-29931.yaml
 http/cves/2024/CVE-2024-30194.yaml
 http/cves/2024/CVE-2024-3469.yaml
 http/cves/2024/CVE-2024-43971.yaml
@@ -33,6 +35,7 @@ http/exposed-panels/xspeeder-login.yaml
 http/exposures/configs/bash-config-exposure.yaml
 http/exposures/configs/exposed-gitmodules.yaml
 http/exposures/configs/flow-config-exposure.yaml
+http/exposures/configs/grafana-metrics-exposure.yaml
 http/exposures/configs/jfrog-artifactory-build-exposure.yaml
 http/exposures/configs/keycloak-admin-console-config.yaml
 http/exposures/configs/makefile-exposure.yaml
@@ -40,9 +43,11 @@ http/exposures/configs/mysql-config-exposure.yaml
 http/exposures/configs/prettier-ignore-disclosure.yaml
 http/exposures/files/jolokia-config-exposure.yaml
 http/exposures/files/kcfinder-exposure.yaml
+http/exposures/files/npmignore-disclosure.yaml
 http/exposures/files/postgres-credentials-exposure.yaml
 http/exposures/files/python-requirements-disclosure.yaml
 http/exposures/files/rails-history-exposure.yaml
+http/exposures/logs/wp-enable-media-replace-log.yaml
 http/exposures/logs/wp-newsletter-log-exposure.yaml
 http/iot/flock-safety-camera-panel.yaml
 http/misconfiguration/aem/aem-jcr-exposure.yaml
@@ -62,6 +67,7 @@ http/vulnerabilities/wordpress/jetpack-gist-xss.yaml
 http/vulnerabilities/wordpress/wp-better-wp-security-fpd.yaml
 http/vulnerabilities/wordpress/wp-custom-post-type-ui-fpd.yaml
 http/vulnerabilities/wordpress/wp-instagram-feed-xss.yaml
+http/vulnerabilities/wordpress/wp-popup-maker-fpd.yaml
 http/vulnerabilities/wordpress/wp-simple-custom-css-fpd.yaml
 http/vulnerabilities/wordpress/wp-user-role-editor-fpd.yaml
 javascript/cves/2018/CVE-2018-8011.yaml
