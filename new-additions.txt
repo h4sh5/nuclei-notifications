@@ -1,5 +1,6 @@
 cloud/gcp/iam/gcloud-service-account-keys-rotation.yaml
 code/cves/2025/CVE-2025-68926.yaml
+dast/vulnerabilities/xss/csp-bypass/cloudinary-csp-bypass.yaml
 http/cves/2006/CVE-2006-3392.yaml
 http/cves/2011/CVE-2011-3600.yaml
 http/cves/2012/CVE-2012-10018.yaml
@@ -13,6 +14,7 @@ http/cves/2019/CVE-2019-11253.yaml
 http/cves/2019/CVE-2019-15823.yaml
 http/cves/2020/CVE-2020-13125.yaml
 http/cves/2021/CVE-2021-24213.yaml
+http/cves/2021/CVE-2021-28799.yaml
 http/cves/2021/CVE-2021-4448.yaml
 http/cves/2022/CVE-2022-27924.yaml
 http/cves/2022/CVE-2022-4940.yaml
@@ -34,6 +36,7 @@ http/cves/2025/CVE-2025-52691.yaml
 http/cves/2025/CVE-2025-60188.yaml
 http/cves/2025/CVE-2025-62522.yaml
 http/cves/2025/CVE-2025-68645.yaml
+http/cves/2025/CVE-2025-69200.yaml
 http/cves/2025/CVE-2025-8848.yaml
 http/exposed-panels/bitbucket-panel.yaml
 http/exposed-panels/ekoapi-admin-panel.yaml
