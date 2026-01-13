@@ -1,6 +1,7 @@
 dns/acme-challenge-detect.yaml
 http/cves/2018/CVE-2018-7765.yaml
 http/cves/2020/CVE-2020-19363.yaml
+http/cves/2025/CVE-2025-25570.yaml
 http/cves/2025/CVE-2025-46349.yaml
 http/cves/2025/CVE-2025-46550.yaml
 http/cves/2026/CVE-2026-21858.yaml
@@ -8,6 +9,7 @@ http/exposed-panels/sanity-studio-panel.yaml
 http/exposures/files/gcloudignore-file.yaml
 http/exposures/files/joe-deadjoe-file-exposure.yaml
 http/exposures/files/postgres-history-exposure.yaml
+http/exposures/logs/cacti-log-exposure.yaml
 http/misconfiguration/installer/fork-installer.yaml
 http/misconfiguration/mybb-full-path-disclosure.yaml
 http/misconfiguration/wordpress/wp-add-search-to-menu-fpd.yaml
