@@ -2,9 +2,11 @@ dns/acme-challenge-detect.yaml
 http/cves/2018/CVE-2018-7765.yaml
 http/cves/2019/CVE-2019-14206.yaml
 http/cves/2020/CVE-2020-19363.yaml
+http/cves/2020/CVE-2020-9039.yaml
 http/cves/2021/CVE-2021-37598.yaml
 http/cves/2023/CVE-2023-52163.yaml
 http/cves/2024/CVE-2024-29137.yaml
+http/cves/2024/CVE-2024-56159.yaml
 http/cves/2025/CVE-2025-25570.yaml
 http/cves/2025/CVE-2025-4210.yaml
 http/cves/2025/CVE-2025-46349.yaml
@@ -18,6 +20,7 @@ http/exposures/backups/batflat-sqlite-exposure.yaml
 http/exposures/configs/netlify-headers-config-exposure.yaml
 http/exposures/configs/selenium-grid-exposure.yaml
 http/exposures/files/gcloudignore-file.yaml
+http/exposures/files/gitpod-dockerfile-exposure.yaml
 http/exposures/files/joe-deadjoe-file-exposure.yaml
 http/exposures/files/postgres-history-exposure.yaml
 http/exposures/files/vscode-mcp-json.yaml
