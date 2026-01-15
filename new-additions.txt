@@ -4,6 +4,7 @@ http/cves/2019/CVE-2019-14206.yaml
 http/cves/2020/CVE-2020-19363.yaml
 http/cves/2020/CVE-2020-9039.yaml
 http/cves/2021/CVE-2021-37598.yaml
+http/cves/2023/CVE-2023-33960.yaml
 http/cves/2023/CVE-2023-52163.yaml
 http/cves/2024/CVE-2024-29137.yaml
 http/cves/2024/CVE-2024-56159.yaml
@@ -27,13 +28,16 @@ http/exposures/files/vscode-mcp-json.yaml
 http/exposures/logs/cacti-log-exposure.yaml
 http/exposures/logs/magento-debug-log-exposure.yaml
 http/exposures/logs/opencart-error-log.yaml
+http/exposures/tokens/azure/azure-instrumentation-key-exposure.yaml
 http/misconfiguration/apache-spark-env.yaml
 http/misconfiguration/cacti-fpd.yaml
 http/misconfiguration/google-calendar-exposure.yaml
 http/misconfiguration/installer/fork-installer.yaml
+http/misconfiguration/intermapper-exposure.yaml
 http/misconfiguration/lightstreamer-dashboard-exposure.yaml
 http/misconfiguration/mybb-full-path-disclosure.yaml
 http/misconfiguration/ollama-improper-authorization.yaml
+http/misconfiguration/stylelint-ignore-disclosure.yaml
 http/misconfiguration/wordpress/wp-add-search-to-menu-fpd.yaml
 http/misconfiguration/wordpress/wp-advanced-iframe-fpd.yaml
 http/misconfiguration/wordpress/wp-advanced-responsive-video-embedder-fpd.yaml
@@ -47,5 +51,6 @@ http/misconfiguration/wordpress/wp-updraftplus-fpd.yaml
 http/misconfiguration/wordpress/wp-w3-total-cache-fpd.yaml
 http/misconfiguration/wordpress/wp-wpforms-lite-fpd.yaml
 http/misconfiguration/wordpress/wp-wpfront-scroll-top-fpd.yaml
+http/technologies/hotjar-rum-detect.yaml
 http/technologies/matomo-rum-detect.yaml
 http/technologies/openreplay-rum-detect.yaml
