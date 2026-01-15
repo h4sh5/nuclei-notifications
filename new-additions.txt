@@ -15,12 +15,15 @@ http/cves/2025/CVE-2025-46349.yaml
 http/cves/2025/CVE-2025-46549.yaml
 http/cves/2025/CVE-2025-46550.yaml
 http/cves/2026/CVE-2026-21858.yaml
+http/default-logins/jhipster-default-login.yaml
 http/exposed-panels/dagster-webserver-ui-exposure.yaml
+http/exposed-panels/orbeon-forms-exposure.yaml
 http/exposed-panels/sanity-studio-panel.yaml
 http/exposures/apis/frigate-api-exposure.yaml
 http/exposures/backups/batflat-sqlite-exposure.yaml
 http/exposures/configs/netlify-headers-config-exposure.yaml
 http/exposures/configs/selenium-grid-exposure.yaml
+http/exposures/files/aws-buildspec-exposure.yaml
 http/exposures/files/gcloudignore-file.yaml
 http/exposures/files/gitpod-dockerfile-exposure.yaml
 http/exposures/files/joe-deadjoe-file-exposure.yaml
@@ -53,6 +56,7 @@ http/misconfiguration/wordpress/wp-updraftplus-fpd.yaml
 http/misconfiguration/wordpress/wp-w3-total-cache-fpd.yaml
 http/misconfiguration/wordpress/wp-wpforms-lite-fpd.yaml
 http/misconfiguration/wordpress/wp-wpfront-scroll-top-fpd.yaml
+http/misconfiguration/wp-gravity-forms-log-disclosure.yaml
 http/technologies/hotjar-rum-detect.yaml
 http/technologies/matomo-rum-detect.yaml
 http/technologies/openreplay-rum-detect.yaml
