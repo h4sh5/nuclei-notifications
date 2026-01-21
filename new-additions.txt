@@ -26,6 +26,7 @@ http/cves/2025/CVE-2025-46549.yaml
 http/cves/2025/CVE-2025-46550.yaml
 http/cves/2025/CVE-2025-56520.yaml
 http/cves/2025/CVE-2025-66472.yaml
+http/cves/2025/CVE-2025-66516.yaml
 http/cves/2026/CVE-2026-21858.yaml
 http/cves/2026/CVE-2026-23550.yaml
 http/default-logins/jhipster-default-login.yaml
@@ -97,7 +98,9 @@ http/misconfiguration/springboot/springboot-x-application-context.yaml
 http/misconfiguration/stylelint-ignore-disclosure.yaml
 http/misconfiguration/typo3-directory-listing.yaml
 http/misconfiguration/umbraco-directory-listing.yaml
+http/misconfiguration/umbraco-miniprofiler-exposure.yaml
 http/misconfiguration/weblate-public-project-exposure.yaml
+http/misconfiguration/wekan-signup-page.yaml
 http/misconfiguration/wordpress/wp-a3-lazy-load-top-fpd.yaml
 http/misconfiguration/wordpress/wp-add-search-to-menu-fpd.yaml
 http/misconfiguration/wordpress/wp-advanced-iframe-fpd.yaml
@@ -115,7 +118,9 @@ http/misconfiguration/wordpress/wp-wpforms-lite-fpd.yaml
 http/misconfiguration/wordpress/wp-wpfront-scroll-top-fpd.yaml
 http/misconfiguration/wp-gravity-forms-log-disclosure.yaml
 http/technologies/firstpromoter-detect.yaml
+http/technologies/fullstory-rum-detect.yaml
 http/technologies/hotjar-rum-detect.yaml
+http/technologies/logrocket-rum-detect.yaml
 http/technologies/matomo-rum-detect.yaml
 http/technologies/openreplay-rum-detect.yaml
 http/technologies/payloadcms-detect.yaml
