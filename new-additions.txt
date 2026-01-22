@@ -42,6 +42,7 @@ http/exposures/configs/azure-functions-hostjson-exposure.yaml
 http/exposures/configs/jakefile-disclosure.yaml
 http/exposures/configs/netlify-headers-config-exposure.yaml
 http/exposures/configs/ovhcloud-backup-config.yaml
+http/exposures/configs/php-prober-exposure.yaml
 http/exposures/configs/selenium-grid-exposure.yaml
 http/exposures/configs/zipkin-config-exposure.yaml
 http/exposures/files/aspnet-launchsettings-exposure.yaml
@@ -53,6 +54,7 @@ http/exposures/files/joe-deadjoe-file-exposure.yaml
 http/exposures/files/pear-registry-exposed.yaml
 http/exposures/files/postgres-history-exposure.yaml
 http/exposures/files/sqlite-history-exposure.yaml
+http/exposures/files/testignore-disclosure.yaml
 http/exposures/files/vscode-mcp-json.yaml
 http/exposures/files/vscode-settings.yaml
 http/exposures/logs/cacti-log-exposure.yaml
@@ -114,6 +116,7 @@ http/misconfiguration/wordpress/wp-ajax-search-lite-fpd.yaml
 http/misconfiguration/wordpress/wp-call-now-button-fpd.yaml
 http/misconfiguration/wordpress/wp-cf7-data-source-fpd.yaml
 http/misconfiguration/wordpress/wp-duplicate-page-fpd.yaml
+http/misconfiguration/wordpress/wp-header-footer-elementor-fpd.yaml
 http/misconfiguration/wordpress/wp-hostinger-fpd.yaml
 http/misconfiguration/wordpress/wp-really-simple-captcha-fpd.yaml
 http/misconfiguration/wordpress/wp-updraftplus-fpd.yaml
