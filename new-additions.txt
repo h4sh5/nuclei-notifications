@@ -3,6 +3,7 @@ file/keys/pendo-api-key-exposure.yaml
 http/cves/2018/CVE-2018-7765.yaml
 http/cves/2019/CVE-2019-12935.yaml
 http/cves/2019/CVE-2019-14206.yaml
+http/cves/2020/CVE-2020-15081.yaml
 http/cves/2020/CVE-2020-19363.yaml
 http/cves/2020/CVE-2020-26935.yaml
 http/cves/2020/CVE-2020-5722.yaml
@@ -25,6 +26,8 @@ http/cves/2025/CVE-2025-4210.yaml
 http/cves/2025/CVE-2025-46349.yaml
 http/cves/2025/CVE-2025-46549.yaml
 http/cves/2025/CVE-2025-46550.yaml
+http/cves/2025/CVE-2025-52694.yaml
+http/cves/2025/CVE-2025-55303.yaml
 http/cves/2025/CVE-2025-56520.yaml
 http/cves/2025/CVE-2025-66472.yaml
 http/cves/2025/CVE-2025-66516.yaml
@@ -37,6 +40,7 @@ http/exposed-panels/orbeon-forms-exposure.yaml
 http/exposed-panels/polycom-hdx-web-exposure.yaml
 http/exposed-panels/sanity-studio-panel.yaml
 http/exposed-panels/xymon-exposure.yaml
+http/exposures/apis/freshrss-api.yaml
 http/exposures/apis/frigate-api-exposure.yaml
 http/exposures/backups/batflat-sqlite-exposure.yaml
 http/exposures/configs/azure-functions-hostjson-exposure.yaml
@@ -46,6 +50,7 @@ http/exposures/configs/ovhcloud-backup-config.yaml
 http/exposures/configs/php-prober-exposure.yaml
 http/exposures/configs/selenium-grid-exposure.yaml
 http/exposures/configs/symfony-lock-exposure.yaml
+http/exposures/configs/wordpress-wp-env-exposure.yaml
 http/exposures/configs/zipkin-config-exposure.yaml
 http/exposures/files/aspnet-launchsettings-exposure.yaml
 http/exposures/files/aws-buildspec-exposure.yaml
