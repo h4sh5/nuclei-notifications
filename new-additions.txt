@@ -12,6 +12,7 @@ http/cves/2021/CVE-2021-22881.yaml
 http/cves/2021/CVE-2021-37598.yaml
 http/cves/2022/CVE-2022-0188.yaml
 http/cves/2022/CVE-2022-41697.yaml
+http/cves/2022/CVE-2022-4223.yaml
 http/cves/2023/CVE-2023-33960.yaml
 http/cves/2023/CVE-2023-52163.yaml
 http/cves/2024/CVE-2024-23055.yaml
@@ -35,7 +36,10 @@ http/cves/2025/CVE-2025-8110.yaml
 http/cves/2026/CVE-2026-21858.yaml
 http/cves/2026/CVE-2026-21859.yaml
 http/cves/2026/CVE-2026-23550.yaml
+http/cves/2026/CVE-2026-23760.yaml
 http/default-logins/jhipster-default-login.yaml
+http/exposed-panels/cgit-detect.yaml
+http/exposed-panels/cisco/cisco-webex-meetings-detect.yaml
 http/exposed-panels/dagster-webserver-ui-exposure.yaml
 http/exposed-panels/orbeon-forms-exposure.yaml
 http/exposed-panels/polycom-hdx-web-exposure.yaml
@@ -75,6 +79,7 @@ http/exposures/tokens/azure/azure-instrumentation-key-exposure.yaml
 http/exposures/tokens/firebase-fcm-server-key-disclosure.yaml
 http/misconfiguration/administrate-dashboard.yaml
 http/misconfiguration/adobe/coldfusion-cfide-dir-listing.yaml
+http/misconfiguration/alibaba-bucket-listing.yaml
 http/misconfiguration/apache-spark-env.yaml
 http/misconfiguration/cacti-fpd.yaml
 http/misconfiguration/cakephp-debugkit-exposure.yaml
@@ -144,6 +149,6 @@ http/technologies/raygun-rum-detect.yaml
 http/technologies/sailsjs-detect.yaml
 http/technologies/vaadin-detect.yaml
 http/vulnerabilities/other/ektron-blog-xmlrpc-xxe.yaml
-http/vulnerabilities/other/smartermail-password-reset.yaml
+http/vulnerabilities/other/theia-lfi-to-rce.yaml
 http/vulnerabilities/other/tinytiny-rss-redirect.yaml
 http/vulnerabilities/wordpress/wp-easy-wp-smtp-log-exposure.yaml
