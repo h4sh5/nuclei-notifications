@@ -36,6 +36,7 @@ http/cves/2025/CVE-2025-66516.yaml
 http/cves/2025/CVE-2025-8110.yaml
 http/cves/2026/CVE-2026-21858.yaml
 http/cves/2026/CVE-2026-21859.yaml
+http/cves/2026/CVE-2026-22200.yaml
 http/cves/2026/CVE-2026-23550.yaml
 http/cves/2026/CVE-2026-23760.yaml
 http/default-logins/jhipster-default-login.yaml
@@ -96,6 +97,7 @@ http/misconfiguration/envoy-metadata-disclosure.yaml
 http/misconfiguration/exist-db-dashboard-access.yaml
 http/misconfiguration/ezservermonitor-exposure.yaml
 http/misconfiguration/fastly-backend-info-disclosure.yaml
+http/misconfiguration/fastly-debug-headers.yaml
 http/misconfiguration/fortra-filecatalyst-anonymous-access.yaml
 http/misconfiguration/gerrit-account-enum.yaml
 http/misconfiguration/gitea-public-repo-exposure.yaml
