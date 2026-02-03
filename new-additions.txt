@@ -6,6 +6,7 @@ http/cves/2021/CVE-2021-24139.yaml
 http/cves/2021/CVE-2021-24786.yaml
 http/cves/2021/CVE-2021-41097.yaml
 http/cves/2022/CVE-2022-28987.yaml
+http/cves/2024/CVE-2024-37259.yaml
 http/cves/2024/CVE-2024-43283.yaml
 http/cves/2024/CVE-2024-5333.yaml
 http/cves/2024/CVE-2024-6250.yaml
@@ -25,6 +26,7 @@ http/exposures/configs/dockerrun-aws-json-exposure.yaml
 http/exposures/configs/exposed-filezilla-config.yaml
 http/exposures/configs/hp-laserjet-config.yaml
 http/exposures/configs/openvpn-as-config-exposure.yaml
+http/exposures/files/llms-file-enum.yaml
 http/exposures/files/wp-links-opml.yaml
 http/exposures/logs/craftcms-log-disclosure.yaml
 http/misconfiguration/cacti-guest-access-enabled.yaml
