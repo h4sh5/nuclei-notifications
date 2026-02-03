@@ -1,4 +1,6 @@
+cloud/kubernetes/rbac/k8s-clusterrole-nodes-proxy-rce.yaml
 dns/aaaa-fingerprint.yaml
+dns/acme-challenge-detect.yaml
 dns/tlsa-record-detect.yaml
 dns/wildcard-dns-detect.yaml
 http/cves/2019/CVE-2019-13608.yaml
@@ -10,11 +12,14 @@ http/cves/2024/CVE-2024-37259.yaml
 http/cves/2024/CVE-2024-43283.yaml
 http/cves/2024/CVE-2024-5333.yaml
 http/cves/2024/CVE-2024-6250.yaml
+http/cves/2024/CVE-2024-8911.yaml
 http/cves/2025/CVE-2025-24786.yaml
 http/cves/2025/CVE-2025-28242.yaml
 http/cves/2026/CVE-2026-21877.yaml
+http/cves/2026/CVE-2026-22812.yaml
 http/cves/2026/CVE-2026-24128.yaml
 http/default-logins/gude/gude-default-login.yaml
+http/default-logins/rustdesk-webclient-default-login.yaml
 http/exposed-panels/cisco-ucm-selfcare-portal.yaml
 http/exposed-panels/dokploy-panel.yaml
 http/exposed-panels/flexnet-operations-panel.yaml
@@ -47,5 +52,6 @@ http/technologies/livewire-detect.yaml
 http/technologies/meteor-detect.yaml
 http/technologies/mixpanel-detect.yaml
 http/technologies/posthog-rum-detect.yaml
+http/technologies/semantic-ui-detect.yaml
 http/vulnerabilities/cisco/cisco-ucm-cluster-enum.yaml
 http/vulnerabilities/confluence-xslt-macro-ssrf.yaml
