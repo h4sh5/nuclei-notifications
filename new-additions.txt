@@ -59,11 +59,13 @@ http/cves/2025/CVE-2025-10353.yaml
 http/cves/2025/CVE-2025-11368.yaml
 http/cves/2025/CVE-2025-1232.yaml
 http/cves/2025/CVE-2025-13138.yaml
+http/cves/2025/CVE-2025-14155.yaml
 http/cves/2025/CVE-2025-24786.yaml
 http/cves/2025/CVE-2025-28242.yaml
 http/cves/2025/CVE-2025-32257.yaml
 http/cves/2025/CVE-2025-40551.yaml
 http/cves/2025/CVE-2025-54068.yaml
+http/cves/2025/CVE-2025-66744.yaml
 http/cves/2025/CVE-2025-68509.yaml
 http/cves/2026/CVE-2026-0594.yaml
 http/cves/2026/CVE-2026-1207.yaml
@@ -126,3 +128,4 @@ http/technologies/semantic-ui-detect.yaml
 http/technologies/zurb-foundation-detect.yaml
 http/vulnerabilities/cisco/cisco-ucm-cluster-enum.yaml
 http/vulnerabilities/confluence-xslt-macro-ssrf.yaml
+javascript/cves/2026/CVE-2026-1731.yaml
