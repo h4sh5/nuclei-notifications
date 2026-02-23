@@ -14,3 +14,5 @@ http/cves/2026/CVE-2026-0770.yaml
 http/cves/2026/CVE-2026-1603.yaml
 http/exposed-panels/recoverpoint-panel.yaml
 http/technologies/pocketbase-detect.yaml
+http/technologies/portkey-ai-detect.yaml
+network/detection/maverick-ssh-detect.yaml
