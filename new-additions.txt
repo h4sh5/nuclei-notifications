@@ -5,6 +5,7 @@ http/cves/2022/CVE-2022-44588.yaml
 http/cves/2023/CVE-2023-32590.yaml
 http/cves/2023/CVE-2023-3452.yaml
 http/cves/2023/CVE-2023-40600.yaml
+http/cves/2023/CVE-2023-5203.yaml
 http/cves/2024/CVE-2024-43965.yaml
 http/cves/2024/CVE-2024-8625.yaml
 http/cves/2024/CVE-2024-9643.yaml
@@ -13,11 +14,13 @@ http/cves/2025/CVE-2025-40536.yaml
 http/cves/2025/CVE-2025-40552.yaml
 http/cves/2025/CVE-2025-40554.yaml
 http/cves/2025/CVE-2025-54726.yaml
+http/cves/2025/CVE-2025-62613.yaml
 http/cves/2025/CVE-2025-62780.yaml
 http/cves/2025/CVE-2025-69971.yaml
 http/cves/2026/CVE-2026-0770.yaml
 http/cves/2026/CVE-2026-0829.yaml
 http/cves/2026/CVE-2026-1603.yaml
+http/default-logins/gitness-default-login.yaml
 http/exposed-panels/recoverpoint-panel.yaml
 http/technologies/pocketbase-detect.yaml
 http/technologies/portkey-ai-detect.yaml
