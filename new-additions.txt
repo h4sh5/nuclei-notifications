@@ -10,6 +10,7 @@ http/cves/2024/CVE-2024-37261.yaml
 http/cves/2024/CVE-2024-43965.yaml
 http/cves/2024/CVE-2024-8625.yaml
 http/cves/2024/CVE-2024-9643.yaml
+http/cves/2025/CVE-2025-27506.yaml
 http/cves/2025/CVE-2025-32355.yaml
 http/cves/2025/CVE-2025-40536.yaml
 http/cves/2025/CVE-2025-40552.yaml
@@ -21,6 +22,7 @@ http/cves/2025/CVE-2025-69971.yaml
 http/cves/2026/CVE-2026-0770.yaml
 http/cves/2026/CVE-2026-0829.yaml
 http/cves/2026/CVE-2026-1603.yaml
+http/cves/2026/CVE-2026-25512.yaml
 http/default-logins/gitness-default-login.yaml
 http/exposed-panels/recoverpoint-panel.yaml
 http/exposures/tokens/interswitch/interswitch-webpay.yaml
@@ -28,6 +30,7 @@ http/exposures/tokens/paystack/paystack-secret-live.yaml
 http/exposures/tokens/remita/remita-credentials.yaml
 http/exposures/tokens/sportybet/sportybet-api.yaml
 http/technologies/Wix-detect.yaml
+http/technologies/bentoml-detect.yaml
 http/technologies/bigcommerce-detect.yaml
 http/technologies/bitrix-detect.yaml
 http/technologies/blogger-detect.yaml
@@ -45,5 +48,6 @@ http/technologies/silverstripe-detect.yaml
 http/technologies/squarespace-detect.yaml
 http/technologies/weaviate-console-detect.yaml
 http/technologies/weebly-detect.yaml
+http/vulnerabilities/other/dagu-rce.yaml
 http/vulnerabilities/other/gradio-file-redirect.yaml
 network/detection/maverick-ssh-detect.yaml
