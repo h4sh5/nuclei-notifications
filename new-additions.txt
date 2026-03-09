@@ -1,6 +1,7 @@
 http/cves/2021/CVE-2021-28480.yaml
 http/cves/2021/CVE-2021-28481.yaml
 http/cves/2022/CVE-2022-0439.yaml
+http/cves/2022/CVE-2022-1453.yaml
 http/cves/2022/CVE-2022-44588.yaml
 http/cves/2023/CVE-2023-32590.yaml
 http/cves/2023/CVE-2023-3452.yaml
@@ -45,6 +46,7 @@ http/technologies/feast-detect.yaml
 http/technologies/flask-detect.yaml
 http/technologies/mezzanine-cms-detect.yaml
 http/technologies/opencart-detect.yaml
+http/technologies/openspeedtest-speedtest.yaml
 http/technologies/oscommerce-detect.yaml
 http/technologies/pocketbase-detect.yaml
 http/technologies/portkey-ai-detect.yaml
