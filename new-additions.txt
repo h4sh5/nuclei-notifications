@@ -38,6 +38,7 @@ http/cves/2026/CVE-2026-0829.yaml
 http/cves/2026/CVE-2026-1357.yaml
 http/cves/2026/CVE-2026-1492.yaml
 http/cves/2026/CVE-2026-1603.yaml
+http/cves/2026/CVE-2026-23829.yaml
 http/cves/2026/CVE-2026-2413.yaml
 http/cves/2026/CVE-2026-25512.yaml
 http/cves/2026/CVE-2026-27645.yaml
@@ -82,6 +83,7 @@ http/technologies/silverstripe-detect.yaml
 http/technologies/squarespace-detect.yaml
 http/technologies/weaviate-console-detect.yaml
 http/technologies/weebly-detect.yaml
+http/technologies/wordpress/plugins/user-registration.yaml
 http/vulnerabilities/limesurvey/limesurvey-open-redirect.yaml
 http/vulnerabilities/other/dagu-rce.yaml
 http/vulnerabilities/other/gradio-file-redirect.yaml
