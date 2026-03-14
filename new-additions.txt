@@ -1,91 +1,45 @@
-http/cves/2021/CVE-2021-28480.yaml
-http/cves/2021/CVE-2021-28481.yaml
-http/cves/2022/CVE-2022-0439.yaml
-http/cves/2022/CVE-2022-1453.yaml
-http/cves/2022/CVE-2022-44588.yaml
-http/cves/2023/CVE-2023-32590.yaml
-http/cves/2023/CVE-2023-3452.yaml
-http/cves/2023/CVE-2023-3643.yaml
-http/cves/2023/CVE-2023-40600.yaml
-http/cves/2023/CVE-2023-50839.yaml
-http/cves/2023/CVE-2023-5203.yaml
-http/cves/2023/CVE-2023-5652.yaml
-http/cves/2023/CVE-2023-6030.yaml
-http/cves/2023/CVE-2023-7337.yaml
-http/cves/2024/CVE-2024-12025.yaml
-http/cves/2024/CVE-2024-30498.yaml
-http/cves/2024/CVE-2024-30502.yaml
-http/cves/2024/CVE-2024-37261.yaml
-http/cves/2024/CVE-2024-43965.yaml
-http/cves/2024/CVE-2024-8625.yaml
-http/cves/2024/CVE-2024-9643.yaml
-http/cves/2024/CVE-2024-9765.yaml
-http/cves/2025/CVE-2025-22785.yaml
-http/cves/2025/CVE-2025-27506.yaml
-http/cves/2025/CVE-2025-32355.yaml
-http/cves/2025/CVE-2025-40536.yaml
-http/cves/2025/CVE-2025-40552.yaml
-http/cves/2025/CVE-2025-40554.yaml
-http/cves/2025/CVE-2025-48281.yaml
-http/cves/2025/CVE-2025-54726.yaml
-http/cves/2025/CVE-2025-62613.yaml
-http/cves/2025/CVE-2025-62780.yaml
-http/cves/2025/CVE-2025-64328.yaml
-http/cves/2025/CVE-2025-69971.yaml
-http/cves/2025/CVE-2025-71243.yaml
-http/cves/2026/CVE-2026-0770.yaml
-http/cves/2026/CVE-2026-0829.yaml
-http/cves/2026/CVE-2026-1357.yaml
-http/cves/2026/CVE-2026-1492.yaml
-http/cves/2026/CVE-2026-1603.yaml
-http/cves/2026/CVE-2026-23829.yaml
-http/cves/2026/CVE-2026-2413.yaml
-http/cves/2026/CVE-2026-25512.yaml
-http/cves/2026/CVE-2026-27645.yaml
-http/cves/2026/CVE-2026-27944.yaml
-http/cves/2026/CVE-2026-27971.yaml
-http/default-logins/apache/apache-syncope-default-login.yaml
-http/default-logins/circutor/circutor-default-login.yaml
-http/default-logins/gitness-default-login.yaml
-http/exposed-panels/carel-boss-mini-panel.yaml
-http/exposed-panels/recoverpoint-panel.yaml
-http/exposed-panels/ypareo-panel.yaml
-http/exposures/tokens/interswitch/interswitch-webpay.yaml
-http/exposures/tokens/paystack/paystack-secret-live.yaml
-http/exposures/tokens/remita/remita-credentials.yaml
-http/exposures/tokens/sportybet/sportybet-api.yaml
-http/technologies/Wix-detect.yaml
-http/technologies/apache/apache-syncope-detect.yaml
-http/technologies/bentoml-detect.yaml
-http/technologies/bigcommerce-detect.yaml
-http/technologies/bitrix-detect.yaml
-http/technologies/blogger-detect.yaml
-http/technologies/cloudflare-speedtest.yaml
-http/technologies/comfyui-detect.yaml
-http/technologies/concrete5-detect.yaml
-http/technologies/django-detect.yaml
-http/technologies/eol/msexchange-eol.yaml
-http/technologies/eol/plesk-eol.yaml
-http/technologies/eol/squid-eol.yaml
-http/technologies/eol/wordpress-eol.yaml
-http/technologies/expressionengine-detect.yaml
-http/technologies/feast-detect.yaml
-http/technologies/flask-detect.yaml
-http/technologies/mezzanine-cms-detect.yaml
-http/technologies/opencart-detect.yaml
-http/technologies/openspeedtest-speedtest.yaml
-http/technologies/oscommerce-detect.yaml
-http/technologies/pocketbase-detect.yaml
-http/technologies/portkey-ai-detect.yaml
-http/technologies/prefect-detect.yaml
-http/technologies/shopify-detect.yaml
-http/technologies/silverstripe-detect.yaml
-http/technologies/squarespace-detect.yaml
-http/technologies/weaviate-console-detect.yaml
-http/technologies/weebly-detect.yaml
-http/technologies/wordpress/plugins/user-registration.yaml
-http/vulnerabilities/limesurvey/limesurvey-open-redirect.yaml
-http/vulnerabilities/other/dagu-rce.yaml
-http/vulnerabilities/other/gradio-file-redirect.yaml
-http/vulnerabilities/other/vlife-fastjson-rce.yaml
-network/detection/maverick-ssh-detect.yaml
+
+<html>
+  <head>
+    <meta content="origin" name="referrer">
+    <title>Rate limit &middot; GitHub</title>
+    <meta name="viewport" content="width=device-width">
+    <style type="text/css" media="screen">
+      body {
+        background-color: #f6f8fa;
+        color: rgba(0, 0, 0, 0.5);
+        font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+        font-size: 14px;
+        line-height: 1.5;
+      }
+      .c { margin: 50px auto; max-width: 600px; text-align: center; padding: 0 24px; }
+      a { text-decoration: none; }
+      a:hover { text-decoration: underline; }
+      h1 { color: #24292e; line-height: 60px; font-size: 48px; font-weight: 300; margin: 0px; }
+      p { margin: 20px 0 40px; }
+      #s { margin-top: 35px; }
+      #s a {
+        color: #666666;
+        font-weight: 200;
+        font-size: 14px;
+        margin: 0 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="c">
+      <h1>Access has been restricted</h1>
+      <p>You have triggered a rate limit.<br><br>
+         Please wait a few minutes before you try again;<br>
+         in some cases this may take up to an hour.
+      </p>
+      <div id="s">
+        <a href="https://support.github.com">Contact Support</a> &mdash;
+        <a href="https://githubstatus.com">GitHub Status</a> &mdash;
+        <a href="https://twitter.com/githubstatus">@githubstatus</a>
+      </div>
+    </div>
+  </body>
+</html>
+
+
