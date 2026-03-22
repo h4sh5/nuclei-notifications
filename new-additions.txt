@@ -1,5 +1,6 @@
 code/cves/2025/CVE-2025-6984.yaml
 http/cves/2022/CVE-2022-1692.yaml
+http/cves/2024/CVE-2024-43144.yaml
 http/cves/2025/CVE-2025-13920.yaml
 http/cves/2025/CVE-2025-71257.yaml
 http/cves/2025/CVE-2025-71258.yaml
@@ -12,6 +13,7 @@ http/cves/2026/CVE-2026-1581.yaml
 http/cves/2026/CVE-2026-2025.yaml
 http/cves/2026/CVE-2026-24477.yaml
 http/cves/2026/CVE-2026-27483.yaml
+http/cves/2026/CVE-2026-30928.yaml
 http/cves/2026/CVE-2026-32583.yaml
 http/cves/2026/CVE-2026-32596.yaml
 http/default-logins/apache/apache-polaris-default-login.yaml
@@ -21,5 +23,6 @@ http/exposures/configs/remote-spark-gateway-config.yaml
 http/misconfiguration/brickcom-camera-unauth-snapshot.yaml
 http/misconfiguration/graphql/graphiql-exposure.yaml
 http/misconfiguration/installer/ghost-cms-installer.yaml
+http/misconfiguration/synology-dsm-system-info.yaml
 http/technologies/eol/confluence-eol.yaml
 http/technologies/leantime-detect.yaml
