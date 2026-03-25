@@ -3,6 +3,7 @@ code/cves/2025/CVE-2025-71260.yaml
 http/cves/2022/CVE-2022-1692.yaml
 http/cves/2024/CVE-2024-43144.yaml
 http/cves/2025/CVE-2025-13920.yaml
+http/cves/2025/CVE-2025-54793.yaml
 http/cves/2025/CVE-2025-62512.yaml
 http/cves/2025/CVE-2025-68043.yaml
 http/cves/2025/CVE-2025-68602.yaml
@@ -20,8 +21,10 @@ http/cves/2026/CVE-2026-2025.yaml
 http/cves/2026/CVE-2026-24477.yaml
 http/cves/2026/CVE-2026-27483.yaml
 http/cves/2026/CVE-2026-30928.yaml
+http/cves/2026/CVE-2026-31816.yaml
 http/cves/2026/CVE-2026-32583.yaml
 http/cves/2026/CVE-2026-32596.yaml
+http/cves/2026/CVE-2026-33868.yaml
 http/default-logins/apache/apache-polaris-default-login.yaml
 http/default-logins/brickcom-camera-default-login.yaml
 http/default-logins/doccano-default-login.yaml
