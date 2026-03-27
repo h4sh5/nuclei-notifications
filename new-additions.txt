@@ -4,6 +4,7 @@ http/cves/2020/CVE-2020-15718.yaml
 http/cves/2022/CVE-2022-1692.yaml
 http/cves/2024/CVE-2024-43144.yaml
 http/cves/2025/CVE-2025-13920.yaml
+http/cves/2025/CVE-2025-46565.yaml
 http/cves/2025/CVE-2025-54793.yaml
 http/cves/2025/CVE-2025-58044.yaml
 http/cves/2025/CVE-2025-59716.yaml
@@ -24,11 +25,13 @@ http/cves/2026/CVE-2026-2025.yaml
 http/cves/2026/CVE-2026-21445.yaml
 http/cves/2026/CVE-2026-24477.yaml
 http/cves/2026/CVE-2026-27483.yaml
+http/cves/2026/CVE-2026-28288.yaml
 http/cves/2026/CVE-2026-30928.yaml
 http/cves/2026/CVE-2026-31816.yaml
 http/cves/2026/CVE-2026-32583.yaml
 http/cves/2026/CVE-2026-32596.yaml
 http/cves/2026/CVE-2026-33868.yaml
+http/default-logins/alfresco-default-login.yaml
 http/default-logins/apache/apache-polaris-default-login.yaml
 http/default-logins/brickcom-camera-default-login.yaml
 http/default-logins/casdoor-default-login.yaml
@@ -37,6 +40,7 @@ http/default-logins/harbor-registry-default-login.yaml
 http/default-logins/ilias/ilias-default-login.yaml
 http/default-logins/limesurvey-default-login.yaml
 http/default-logins/ntopng-default-login.yaml
+http/default-logins/redmine-default-login.yaml
 http/default-logins/xerox/xerox-default-login.yaml
 http/exposed-panels/arcane-login-panel.yaml
 http/exposed-panels/budibase-login-detect.yaml
