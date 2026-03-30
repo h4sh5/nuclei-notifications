@@ -11,6 +11,7 @@ http/cves/2025/CVE-2025-46565.yaml
 http/cves/2025/CVE-2025-54793.yaml
 http/cves/2025/CVE-2025-58044.yaml
 http/cves/2025/CVE-2025-59716.yaml
+http/cves/2025/CVE-2025-62126.yaml
 http/cves/2025/CVE-2025-62512.yaml
 http/cves/2025/CVE-2025-68043.yaml
 http/cves/2025/CVE-2025-68602.yaml
@@ -60,6 +61,7 @@ http/misconfiguration/installer/ghost-cms-installer.yaml
 http/misconfiguration/installer/mistserver-installer.yaml
 http/misconfiguration/synology-dsm-system-info.yaml
 http/technologies/eol/confluence-eol.yaml
+http/technologies/eol/forgejo-eol.yaml
 http/technologies/leantime-detect.yaml
 http/technologies/litellm-swagger-detect.yaml
 http/technologies/rustfs-detect.yaml
