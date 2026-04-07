@@ -43,5 +43,6 @@ http/misconfiguration/node-red-unauth.yaml
 http/misconfiguration/opentext-filr-guest-access.yaml
 http/misconfiguration/photoprism-unauth-exposure.yaml
 http/misconfiguration/piwik/piwik-unauthenticated-access.yaml
+http/misconfiguration/sabnzbd/sabnzbd-unauth-access.yaml
 http/misconfiguration/weak-hsts-detect.yaml
 http/vulnerabilities/magento/magento-polyshell-rce.yaml
