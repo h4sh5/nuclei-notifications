@@ -1,3 +1,4 @@
+http/cves/2021/CVE-2021-23337.yaml
 http/cves/2022/CVE-2022-41678.yaml
 http/cves/2023/CVE-2023-40924.yaml
 http/cves/2023/CVE-2023-49293.yaml
@@ -23,6 +24,7 @@ http/cves/2026/CVE-2026-34605.yaml
 http/cves/2026/CVE-2026-4020.yaml
 http/cves/2026/CVE-2026-4257.yaml
 http/cves/2026/CVE-2026-5615.yaml
+http/default-logins/apache/apache-sling-default-login.yaml
 http/default-logins/checkmk-default-login.yaml
 http/default-logins/freepbx-default-login.yaml
 http/default-logins/graylog-default-login.yaml
@@ -47,4 +49,5 @@ http/misconfiguration/photoprism-unauth-exposure.yaml
 http/misconfiguration/piwik/piwik-unauthenticated-access.yaml
 http/misconfiguration/sabnzbd/sabnzbd-unauth-access.yaml
 http/misconfiguration/weak-hsts-detect.yaml
+http/technologies/apache/apache-sling-detect.yaml
 http/vulnerabilities/magento/magento-polyshell-rce.yaml
