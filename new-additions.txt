@@ -4,6 +4,7 @@ http/cves/2023/CVE-2023-40924.yaml
 http/cves/2023/CVE-2023-49293.yaml
 http/cves/2023/CVE-2023-6592.yaml
 http/cves/2023/CVE-2023-6750.yaml
+http/cves/2023/CVE-2023-6825.yaml
 http/cves/2023/CVE-2023-7165.yaml
 http/cves/2024/CVE-2024-28752.yaml
 http/cves/2024/CVE-2024-49357.yaml
