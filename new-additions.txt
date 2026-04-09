@@ -2,6 +2,7 @@ http/cves/2021/CVE-2021-23337.yaml
 http/cves/2022/CVE-2022-41678.yaml
 http/cves/2023/CVE-2023-40924.yaml
 http/cves/2023/CVE-2023-49293.yaml
+http/cves/2023/CVE-2023-6592.yaml
 http/cves/2024/CVE-2024-28752.yaml
 http/cves/2024/CVE-2024-49357.yaml
 http/cves/2025/CVE-2025-12536.yaml
@@ -15,6 +16,7 @@ http/cves/2026/CVE-2026-2699.yaml
 http/cves/2026/CVE-2026-28358.yaml
 http/cves/2026/CVE-2026-28414.yaml
 http/cves/2026/CVE-2026-29014.yaml
+http/cves/2026/CVE-2026-29066.yaml
 http/cves/2026/CVE-2026-29183.yaml
 http/cves/2026/CVE-2026-31807.yaml
 http/cves/2026/CVE-2026-31809.yaml
@@ -24,6 +26,7 @@ http/cves/2026/CVE-2026-34197.yaml
 http/cves/2026/CVE-2026-34453.yaml
 http/cves/2026/CVE-2026-34605.yaml
 http/cves/2026/CVE-2026-34885.yaml
+http/cves/2026/CVE-2026-39364.yaml
 http/cves/2026/CVE-2026-39365.yaml
 http/cves/2026/CVE-2026-4020.yaml
 http/cves/2026/CVE-2026-4257.yaml
@@ -42,6 +45,7 @@ http/exposed-panels/openclaw-control-detect.yaml
 http/misconfiguration/argo-workflows-unauth.yaml
 http/misconfiguration/blockchain-rpc-debug-exposure.yaml
 http/misconfiguration/blockchain-rpc-txpool-exposed.yaml
+http/misconfiguration/glitchtip/glitchtip-public-signup.yaml
 http/misconfiguration/heimdall-dashboard-exposure.yaml
 http/misconfiguration/installer/3cx-installer.yaml
 http/misconfiguration/installer/azuracast-installer.yaml
@@ -56,3 +60,5 @@ http/misconfiguration/sabnzbd/sabnzbd-unauth-access.yaml
 http/misconfiguration/weak-hsts-detect.yaml
 http/technologies/apache/apache-sling-detect.yaml
 http/vulnerabilities/magento/magento-polyshell-rce.yaml
+http/vulnerabilities/other/marimo-proxy-abuse.yaml
+javascript/cves/2026/CVE-2026-39987.yaml
