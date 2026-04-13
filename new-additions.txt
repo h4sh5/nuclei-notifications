@@ -46,6 +46,7 @@ http/cves/2026/CVE-2026-3584.yaml
 http/cves/2026/CVE-2026-39364.yaml
 http/cves/2026/CVE-2026-39365.yaml
 http/cves/2026/CVE-2026-4020.yaml
+http/cves/2026/CVE-2026-4106.yaml
 http/cves/2026/CVE-2026-4257.yaml
 http/cves/2026/CVE-2026-5615.yaml
 http/default-logins/apache/apache-sling-default-login.yaml
@@ -58,6 +59,7 @@ http/default-logins/mirth/mirth-connect-default-login.yaml
 http/default-logins/netbox/netbox-default-login.yaml
 http/default-logins/owncast-default-login.yaml
 http/default-logins/superset-default-login.yaml
+http/exposed-panels/astrbot-panel-detect.yaml
 http/exposed-panels/devtron-panel.yaml
 http/exposed-panels/openclaw-control-detect.yaml
 http/exposures/configs/devtron-env-config-js.yaml
