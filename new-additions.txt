@@ -8,6 +8,7 @@ http/cves/2023/CVE-2023-6750.yaml
 http/cves/2023/CVE-2023-6825.yaml
 http/cves/2023/CVE-2023-7165.yaml
 http/cves/2024/CVE-2024-28752.yaml
+http/cves/2024/CVE-2024-38819.yaml
 http/cves/2024/CVE-2024-49357.yaml
 http/cves/2024/CVE-2024-8252.yaml
 http/cves/2025/CVE-2025-12536.yaml
@@ -68,6 +69,7 @@ http/misconfiguration/glitchtip/glitchtip-public-signup.yaml
 http/misconfiguration/heimdall-dashboard-exposure.yaml
 http/misconfiguration/installer/3cx-installer.yaml
 http/misconfiguration/installer/azuracast-installer.yaml
+http/misconfiguration/installer/freescout-installer.yaml
 http/misconfiguration/installer/icinga-installer.yaml
 http/misconfiguration/installer/leantime-install-page-exposed.yaml
 http/misconfiguration/installer/modx-installer.yaml
