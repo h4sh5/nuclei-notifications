@@ -24,6 +24,7 @@ http/cves/2025/CVE-2025-54597.yaml
 http/cves/2025/CVE-2025-55150.yaml
 http/cves/2025/CVE-2025-59528.yaml
 http/cves/2025/CVE-2025-64500.yaml
+http/cves/2026/CVE-2026-20079.yaml
 http/cves/2026/CVE-2026-21643.yaml
 http/cves/2026/CVE-2026-2416.yaml
 http/cves/2026/CVE-2026-25616.yaml
