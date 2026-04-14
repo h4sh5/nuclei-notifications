@@ -39,6 +39,7 @@ http/cves/2026/CVE-2026-29183.yaml
 http/cves/2026/CVE-2026-31807.yaml
 http/cves/2026/CVE-2026-31809.yaml
 http/cves/2026/CVE-2026-33478.yaml
+http/cves/2026/CVE-2026-3396.yaml
 http/cves/2026/CVE-2026-34156.yaml
 http/cves/2026/CVE-2026-34197.yaml
 http/cves/2026/CVE-2026-34453.yaml
@@ -52,6 +53,7 @@ http/cves/2026/CVE-2026-4020.yaml
 http/cves/2026/CVE-2026-4106.yaml
 http/cves/2026/CVE-2026-4257.yaml
 http/cves/2026/CVE-2026-5615.yaml
+http/cves/2026/CVE-2026-6203.yaml
 http/default-logins/apache/apache-sling-default-login.yaml
 http/default-logins/astrbot-default-login.yaml
 http/default-logins/checkmk-default-login.yaml
