@@ -52,6 +52,7 @@ http/cves/2026/CVE-2026-4106.yaml
 http/cves/2026/CVE-2026-4257.yaml
 http/cves/2026/CVE-2026-5615.yaml
 http/default-logins/apache/apache-sling-default-login.yaml
+http/default-logins/astrbot-default-login.yaml
 http/default-logins/checkmk-default-login.yaml
 http/default-logins/freepbx-default-login.yaml
 http/default-logins/graylog-default-login.yaml
