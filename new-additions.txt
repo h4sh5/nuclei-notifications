@@ -62,7 +62,6 @@ http/default-logins/apache/apache-sling-default-login.yaml
 http/default-logins/astrbot-default-login.yaml
 http/default-logins/checkmk-default-login.yaml
 http/default-logins/freepbx-default-login.yaml
-http/default-logins/graylog-default-login.yaml
 http/default-logins/graylog/graylog-default-login.yaml
 http/default-logins/grocy/grocy-default-login.yaml
 http/default-logins/mirth/mirth-connect-default-login.yaml
