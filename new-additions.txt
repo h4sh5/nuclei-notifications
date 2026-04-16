@@ -1,1 +1,4 @@
+http/cves/2026/CVE-2026-33032.yaml
 http/cves/2026/CVE-2026-4631.yaml
+http/technologies/nginx-opencloudos-test-page.yaml
+http/vulnerabilities/other/odoo-login-redirect.yaml
