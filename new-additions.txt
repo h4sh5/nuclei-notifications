@@ -1,4 +1,17 @@
+code/windows/audit/default-admin-account-enabled.yaml
+code/windows/audit/office-macros-not-restricted.yaml
+code/windows/audit/windows-auto-update-disabled.yaml
+http/cves/2025/CVE-2025-4524.yaml
+http/cves/2025/CVE-2025-59342.yaml
+http/cves/2026/CVE-2026-21484.yaml
+http/cves/2026/CVE-2026-24423.yaml
 http/cves/2026/CVE-2026-33032.yaml
+http/cves/2026/CVE-2026-33439.yaml
+http/cves/2026/CVE-2026-40242.yaml
 http/cves/2026/CVE-2026-4631.yaml
+http/exposures/apis/chroma-api-exposure.yaml
+http/misconfiguration/chainlit-unauth-access.yaml
+http/misconfiguration/installer/chromadb-installer.yaml
 http/technologies/nginx-opencloudos-test-page.yaml
 http/vulnerabilities/other/odoo-login-redirect.yaml
+javascript/cves/2026/CVE-2026-39363.yaml
