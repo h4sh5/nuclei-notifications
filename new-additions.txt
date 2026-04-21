@@ -3,6 +3,7 @@ code/windows/audit/office-macros-not-restricted.yaml
 code/windows/audit/windows-auto-update-disabled.yaml
 http/cves/2021/CVE-2021-26947.yaml
 http/cves/2025/CVE-2025-13390.yaml
+http/cves/2025/CVE-2025-23211.yaml
 http/cves/2025/CVE-2025-4524.yaml
 http/cves/2025/CVE-2025-49002.yaml
 http/cves/2025/CVE-2025-59342.yaml
@@ -17,6 +18,7 @@ http/cves/2026/CVE-2026-4631.yaml
 http/default-logins/avaya-phone-default-login.yaml
 http/exposed-panels/fortisandbox-panel.yaml
 http/exposures/apis/chroma-api-exposure.yaml
+http/exposures/configs/prisma-schema-exposure.yaml
 http/misconfiguration/apache/apache-skywalking-dashboard.yaml
 http/misconfiguration/chainlit-unauth-access.yaml
 http/misconfiguration/installer/chatwoot-installer.yaml
