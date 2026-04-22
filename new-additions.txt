@@ -3,6 +3,7 @@ code/windows/audit/office-macros-not-restricted.yaml
 code/windows/audit/windows-auto-update-disabled.yaml
 http/cves/2021/CVE-2021-26947.yaml
 http/cves/2021/CVE-2021-45328.yaml
+http/cves/2023/CVE-2023-49438.yaml
 http/cves/2025/CVE-2025-13390.yaml
 http/cves/2025/CVE-2025-23211.yaml
 http/cves/2025/CVE-2025-4524.yaml
@@ -19,6 +20,7 @@ http/cves/2026/CVE-2026-27174.yaml
 http/cves/2026/CVE-2026-28409.yaml
 http/cves/2026/CVE-2026-33032.yaml
 http/cves/2026/CVE-2026-33439.yaml
+http/cves/2026/CVE-2026-39808.yaml
 http/cves/2026/CVE-2026-40242.yaml
 http/cves/2026/CVE-2026-40887.yaml
 http/cves/2026/CVE-2026-4631.yaml
