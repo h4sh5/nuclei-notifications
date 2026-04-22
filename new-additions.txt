@@ -39,4 +39,5 @@ http/technologies/vendure-detect.yaml
 http/vulnerabilities/other/odoo-login-redirect.yaml
 http/vulnerabilities/retool/retool-postmessage-xss.yaml
 javascript/cves/2026/CVE-2026-39363.yaml
+javascript/default-logins/rabbitmq-amqp-default-login.yaml
 javascript/udp/misconfiguration/mdns-ptzoptics-detect.yaml
