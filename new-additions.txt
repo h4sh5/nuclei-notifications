@@ -2,6 +2,7 @@ code/windows/audit/default-admin-account-enabled.yaml
 code/windows/audit/office-macros-not-restricted.yaml
 code/windows/audit/windows-auto-update-disabled.yaml
 http/cves/2021/CVE-2021-26947.yaml
+http/cves/2021/CVE-2021-45328.yaml
 http/cves/2025/CVE-2025-13390.yaml
 http/cves/2025/CVE-2025-23211.yaml
 http/cves/2025/CVE-2025-4524.yaml
@@ -40,4 +41,9 @@ http/vulnerabilities/other/odoo-login-redirect.yaml
 http/vulnerabilities/retool/retool-postmessage-xss.yaml
 javascript/cves/2026/CVE-2026-39363.yaml
 javascript/default-logins/rabbitmq-amqp-default-login.yaml
+javascript/enumeration/perforce-info-disclosure.yaml
+javascript/enumeration/perforce-user-enum.yaml
+javascript/misconfiguration/perforce-passwordless-users.yaml
+javascript/misconfiguration/perforce-remote-depot-unauth.yaml
 javascript/udp/misconfiguration/mdns-ptzoptics-detect.yaml
+network/detection/perforce-detect.yaml
