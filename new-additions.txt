@@ -13,6 +13,7 @@ http/cves/2025/CVE-2025-13801.yaml
 http/cves/2025/CVE-2025-23211.yaml
 http/cves/2025/CVE-2025-4524.yaml
 http/cves/2025/CVE-2025-49002.yaml
+http/cves/2025/CVE-2025-59136.yaml
 http/cves/2025/CVE-2025-59341.yaml
 http/cves/2025/CVE-2025-59342.yaml
 http/cves/2025/CVE-2025-62039.yaml
@@ -31,7 +32,9 @@ http/cves/2026/CVE-2026-39808.yaml
 http/cves/2026/CVE-2026-40242.yaml
 http/cves/2026/CVE-2026-40308.yaml
 http/cves/2026/CVE-2026-40887.yaml
+http/cves/2026/CVE-2026-41176.yaml
 http/cves/2026/CVE-2026-41179.yaml
+http/cves/2026/CVE-2026-41640.yaml
 http/cves/2026/CVE-2026-4631.yaml
 http/default-logins/avaya-phone-default-login.yaml
 http/exposed-panels/fortinet/fortisandbox-panel.yaml
