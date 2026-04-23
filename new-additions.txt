@@ -6,6 +6,7 @@ http/cves/2021/CVE-2021-45328.yaml
 http/cves/2023/CVE-2023-49438.yaml
 http/cves/2024/CVE-2024-26291.yaml
 http/cves/2025/CVE-2025-13390.yaml
+http/cves/2025/CVE-2025-1361.yaml
 http/cves/2025/CVE-2025-23211.yaml
 http/cves/2025/CVE-2025-4524.yaml
 http/cves/2025/CVE-2025-49002.yaml
@@ -44,6 +45,7 @@ http/technologies/browserless-swagger-detect.yaml
 http/technologies/inertiajs-detect.yaml
 http/technologies/nginx-opencloudos-test-page.yaml
 http/technologies/vendure-detect.yaml
+http/vulnerabilities/gitea/gitea-open-redirect-bypass.yaml
 http/vulnerabilities/other/odoo-login-redirect.yaml
 http/vulnerabilities/retool/retool-postmessage-xss.yaml
 javascript/cves/2026/CVE-2026-39363.yaml
