@@ -47,7 +47,7 @@ http/exposed-panels/fortinet/fortisandbox-panel.yaml
 http/exposed-panels/fortisandbox-panel.yaml
 http/exposures/apis/chroma-api-exposure.yaml
 http/exposures/configs/prisma-schema-exposure.yaml
-http/http/miscellaneous/contrastapi-domain-recon.yaml
+http/miscellaneous/contrastapi-domain-recon.yaml
 http/misconfiguration/apache/apache-skywalking-dashboard.yaml
 http/misconfiguration/chainlit-unauth-access.yaml
 http/misconfiguration/installer/chatwoot-installer.yaml
