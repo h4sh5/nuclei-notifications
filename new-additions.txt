@@ -45,6 +45,7 @@ http/cves/2026/CVE-2026-41641.yaml
 http/cves/2026/CVE-2026-4631.yaml
 http/default-logins/avaya-phone-default-login.yaml
 http/exposed-panels/claris-filemaker-panel.yaml
+http/exposed-panels/device42-panel.yaml
 http/exposed-panels/fortinet/fortisandbox-panel.yaml
 http/exposed-panels/fortisandbox-panel.yaml
 http/exposures/apis/chroma-api-exposure.yaml
