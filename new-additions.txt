@@ -1,6 +1,7 @@
 code/windows/audit/default-admin-account-enabled.yaml
 code/windows/audit/office-macros-not-restricted.yaml
 code/windows/audit/windows-auto-update-disabled.yaml
+http/cves/2017/CVE-2017-6478.yaml
 http/cves/2021/CVE-2021-26947.yaml
 http/cves/2021/CVE-2021-3152.yaml
 http/cves/2021/CVE-2021-45328.yaml
@@ -25,15 +26,20 @@ http/cves/2025/CVE-2025-69411.yaml
 http/cves/2025/CVE-2025-9209.yaml
 http/cves/2026/CVE-2026-0560.yaml
 http/cves/2026/CVE-2026-1314.yaml
+http/cves/2026/CVE-2026-1368.yaml
 http/cves/2026/CVE-2026-21484.yaml
 http/cves/2026/CVE-2026-2262.yaml
+http/cves/2026/CVE-2026-23482.yaml
+http/cves/2026/CVE-2026-23483.yaml
 http/cves/2026/CVE-2026-23486.yaml
 http/cves/2026/CVE-2026-24423.yaml
 http/cves/2026/CVE-2026-27174.yaml
 http/cves/2026/CVE-2026-28409.yaml
 http/cves/2026/CVE-2026-33032.yaml
+http/cves/2026/CVE-2026-33057.yaml
 http/cves/2026/CVE-2026-33439.yaml
 http/cves/2026/CVE-2026-35029.yaml
+http/cves/2026/CVE-2026-3844.yaml
 http/cves/2026/CVE-2026-39808.yaml
 http/cves/2026/CVE-2026-40242.yaml
 http/cves/2026/CVE-2026-40308.yaml
@@ -50,6 +56,7 @@ http/exposed-panels/device42-panel.yaml
 http/exposed-panels/fortinet/fortisandbox-panel.yaml
 http/exposed-panels/fortisandbox-panel.yaml
 http/exposures/apis/chroma-api-exposure.yaml
+http/exposures/apis/weglot-api-key-exposure.yaml
 http/exposures/configs/prisma-schema-exposure.yaml
 http/miscellaneous/contrastapi-domain-recon.yaml
 http/misconfiguration/apache/apache-skywalking-dashboard.yaml
