@@ -43,6 +43,7 @@ http/cves/2026/CVE-2026-33439.yaml
 http/cves/2026/CVE-2026-33626.yaml
 http/cves/2026/CVE-2026-35029.yaml
 http/cves/2026/CVE-2026-3844.yaml
+http/cves/2026/CVE-2026-39339.yaml
 http/cves/2026/CVE-2026-39808.yaml
 http/cves/2026/CVE-2026-40242.yaml
 http/cves/2026/CVE-2026-40308.yaml
@@ -59,6 +60,7 @@ http/exposed-panels/device42-panel.yaml
 http/exposed-panels/fortinet/fortisandbox-panel.yaml
 http/exposed-panels/fortisandbox-panel.yaml
 http/exposed-panels/outline-panel.yaml
+http/exposed-panels/supabase-studio-panel.yaml
 http/exposures/apis/chroma-api-exposure.yaml
 http/exposures/apis/weglot-api-key-exposure.yaml
 http/exposures/configs/prisma-schema-exposure.yaml
