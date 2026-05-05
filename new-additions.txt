@@ -59,6 +59,7 @@ http/cves/2026/CVE-2026-41179.yaml
 http/cves/2026/CVE-2026-41640.yaml
 http/cves/2026/CVE-2026-41641.yaml
 http/cves/2026/CVE-2026-41940.yaml
+http/cves/2026/CVE-2026-42031.yaml
 http/cves/2026/CVE-2026-4631.yaml
 http/default-logins/apache/apache-casbin-mcp-gateway-default-login.yaml
 http/default-logins/avaya-phone-default-login.yaml
@@ -88,6 +89,7 @@ http/misconfiguration/wordpress/download-monitor-unauth-log-export.yaml
 http/technologies/apache/apache-casbin-mcp-gateway-detect.yaml
 http/technologies/browserless-swagger-detect.yaml
 http/technologies/inertiajs-detect.yaml
+http/technologies/localstack-detect.yaml
 http/technologies/nginx-opencloudos-test-page.yaml
 http/technologies/vendure-detect.yaml
 http/vulnerabilities/gitea/gitea-open-redirect-bypass.yaml
