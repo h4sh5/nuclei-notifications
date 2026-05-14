@@ -19,6 +19,7 @@ http/cves/2026/CVE-2026-34847.yaml
 http/cves/2026/CVE-2026-38360.yaml
 http/cves/2026/CVE-2026-38361.yaml
 http/cves/2026/CVE-2026-40878.yaml
+http/cves/2026/CVE-2026-42281.yaml
 http/cves/2026/CVE-2026-42569.yaml
 http/cves/2026/CVE-2026-4810.yaml
 http/default-logins/ibm/ibm-mfp-default-login.yaml
@@ -37,5 +38,6 @@ http/misconfiguration/redis-exporter-metrics.yaml
 http/misconfiguration/springboot/springboot-httpexchanges.yaml
 http/misconfiguration/springboot/springboot-sbom.yaml
 http/misconfiguration/unauthenticated-opencode-web.yaml
+http/technologies/infinispan-detect.yaml
 http/technologies/sysreptor-detect.yaml
 http/vulnerabilities/appsmith/appsmith-info-disclosure.yaml
