@@ -38,6 +38,7 @@ http/exposed-panels/vllm-api-detect.yaml
 http/exposed-panels/windmill-panel.yaml
 http/exposed-panels/zitadel-panel.yaml
 http/exposures/configs/coveralls-configuration-file-exposure.yaml
+http/misconfiguration/gitea-userenum.yaml
 http/misconfiguration/litellm-unauth-model-exposure.yaml
 http/misconfiguration/redis-exporter-metrics.yaml
 http/misconfiguration/springboot/springboot-httpexchanges.yaml
@@ -46,5 +47,6 @@ http/misconfiguration/unauthenticated-opencode-web.yaml
 http/technologies/infinispan-detect.yaml
 http/technologies/sysreptor-detect.yaml
 http/vulnerabilities/appsmith/appsmith-info-disclosure.yaml
+http/vulnerabilities/phpjabbers/phpjabbers-event-booking-xss.yaml
 http/vulnerabilities/wordpress/wp-livechat-stored-xss.yaml
 javascript/cves/2026/CVE-2026-44578.yaml
