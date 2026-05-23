@@ -32,6 +32,8 @@ http/cves/2026/CVE-2026-9082.yaml
 http/default-logins/grandstream/grandstream-grp-default-login.yaml
 http/default-logins/ibm/ibm-mfp-default-login.yaml
 http/default-logins/infinispan/infinispan-default-login.yaml
+http/detect/opendcim-detect.yaml
+http/exposed-panels/aapanel-linux-panel.yaml
 http/exposed-panels/airbyte-panel.yaml
 http/exposed-panels/blinko-login-panel.yaml
 http/exposed-panels/espocrm-detect.yaml
@@ -48,6 +50,7 @@ http/exposed-panels/zitadel-panel.yaml
 http/exposures/configs/coveralls-configuration-file-exposure.yaml
 http/miscellaneous/crypto-address-detect.yaml
 http/misconfiguration/gitea-userenum.yaml
+http/misconfiguration/installer/uptime-kuma-installer.yaml
 http/misconfiguration/litellm-unauth-model-exposure.yaml
 http/misconfiguration/redis-exporter-metrics.yaml
 http/misconfiguration/springboot/springboot-httpexchanges.yaml
@@ -62,6 +65,7 @@ http/vulnerabilities/wordpress/wp-livechat-stored-xss.yaml
 javascript/cves/2026/CVE-2026-33453.yaml
 javascript/cves/2026/CVE-2026-44578.yaml
 javascript/enumeration/ikev2-transforms-enum.yaml
+javascript/udp/detection/daytime-detect.yaml
 javascript/udp/detection/mssql-browser-detect.yaml
 javascript/udp/detection/netbios-udp-detect.yaml
 javascript/udp/detection/rpc-udp-detect.yaml
