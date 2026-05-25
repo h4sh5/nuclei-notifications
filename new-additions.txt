@@ -1,5 +1,6 @@
 code/cves/2026/CVE-2026-20182.yaml
 code/windows/enumeration/weak-service-binary-permissions.yaml
+file/android/android-request-install-packages-permission.yaml
 http/cves/2019/CVE-2019-25246.yaml
 http/cves/2021/CVE-2021-24916.yaml
 http/cves/2024/CVE-2024-10763.yaml
@@ -38,7 +39,6 @@ http/cves/2026/CVE-2026-9082.yaml
 http/default-logins/grandstream/grandstream-grp-default-login.yaml
 http/default-logins/ibm/ibm-mfp-default-login.yaml
 http/default-logins/infinispan/infinispan-default-login.yaml
-http/detect/opendcim-detect.yaml
 http/exposed-panels/aapanel-linux-panel.yaml
 http/exposed-panels/airbyte-panel.yaml
 http/exposed-panels/argilla-panel.yaml
@@ -92,6 +92,7 @@ http/miscellaneous/crypto-address-detect.yaml
 http/misconfiguration/gitea-userenum.yaml
 http/misconfiguration/hazelcast-management-exposure.yaml
 http/misconfiguration/installer/uptime-kuma-installer.yaml
+http/misconfiguration/kong-status-endpoint.yaml
 http/misconfiguration/litellm-unauth-model-exposure.yaml
 http/misconfiguration/redis-exporter-metrics.yaml
 http/misconfiguration/springboot/springboot-httpexchanges.yaml
@@ -99,6 +100,7 @@ http/misconfiguration/springboot/springboot-sbom.yaml
 http/misconfiguration/unauthenticated-opencode-web.yaml
 http/technologies/infinispan-detect.yaml
 http/technologies/ivanti/ivanti-xtraction-detect.yaml
+http/technologies/opendcim-detect.yaml
 http/technologies/sysreptor-detect.yaml
 http/vulnerabilities/appsmith/appsmith-info-disclosure.yaml
 http/vulnerabilities/phpjabbers/phpjabbers-event-booking-xss.yaml
