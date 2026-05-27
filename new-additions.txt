@@ -31,6 +31,7 @@ http/cves/2026/CVE-2026-40878.yaml
 http/cves/2026/CVE-2026-42281.yaml
 http/cves/2026/CVE-2026-42569.yaml
 http/cves/2026/CVE-2026-46372.yaml
+http/cves/2026/CVE-2026-46670.yaml
 http/cves/2026/CVE-2026-46725.yaml
 http/cves/2026/CVE-2026-47668.yaml
 http/cves/2026/CVE-2026-4810.yaml
@@ -79,6 +80,7 @@ http/exposed-panels/janitza-gridvis-detect.yaml
 http/exposed-panels/janitza-umg-panel.yaml
 http/exposed-panels/jupyterhub-panel.yaml
 http/exposed-panels/kaco-new-energy-detect.yaml
+http/exposed-panels/kaeser-sigma-air-manager-panel.yaml
 http/exposed-panels/kubeflow-pipelines-panel.yaml
 http/exposed-panels/langfuse-panel.yaml
 http/exposed-panels/langsmith-panel.yaml
