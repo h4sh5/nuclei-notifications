@@ -27,6 +27,7 @@ http/cves/2026/CVE-2026-34486.yaml
 http/cves/2026/CVE-2026-34847.yaml
 http/cves/2026/CVE-2026-38360.yaml
 http/cves/2026/CVE-2026-38361.yaml
+http/cves/2026/CVE-2026-39352.yaml
 http/cves/2026/CVE-2026-40878.yaml
 http/cves/2026/CVE-2026-42281.yaml
 http/cves/2026/CVE-2026-42569.yaml
@@ -61,6 +62,7 @@ http/exposed-panels/codesys-webvisu-panel.yaml
 http/exposed-panels/cogent-datahub-panel.yaml
 http/exposed-panels/cognita-panel.yaml
 http/exposed-panels/copa-data-zenon-panel.yaml
+http/exposed-panels/couchbase-server-console.yaml
 http/exposed-panels/deep-sea-electronics-dse855-detect.yaml
 http/exposed-panels/digi-router-panel.yaml
 http/exposed-panels/echelon-ilon-smartserver-panel.yaml
@@ -96,6 +98,7 @@ http/exposed-panels/microsys-promotic-panel.yaml
 http/exposed-panels/mlflow-panel.yaml
 http/exposed-panels/morningstar-prostar-mppt-detect.yaml
 http/exposed-panels/moxa-mxview-panel.yaml
+http/exposed-panels/nmon-login-panel.yaml
 http/exposed-panels/openllm-panel.yaml
 http/exposed-panels/openscada-panel.yaml
 http/exposed-panels/opto22-groov-panel.yaml
@@ -140,6 +143,7 @@ http/misconfiguration/hazelcast-management-exposure.yaml
 http/misconfiguration/installer/uptime-kuma-installer.yaml
 http/misconfiguration/kong-status-endpoint.yaml
 http/misconfiguration/litellm-unauth-model-exposure.yaml
+http/misconfiguration/puppetdb-dashboard-unauth.yaml
 http/misconfiguration/redis-exporter-metrics.yaml
 http/misconfiguration/springboot/springboot-httpexchanges.yaml
 http/misconfiguration/springboot/springboot-sbom.yaml
@@ -148,6 +152,7 @@ http/technologies/infinispan-detect.yaml
 http/technologies/ivanti/ivanti-xtraction-detect.yaml
 http/technologies/opendcim-detect.yaml
 http/technologies/sysreptor-detect.yaml
+http/technologies/wordpress/plugins/divi-form-builder-detect.yaml
 http/vulnerabilities/appsmith/appsmith-info-disclosure.yaml
 http/vulnerabilities/cpanel/cpanel-mailman-xss.yaml
 http/vulnerabilities/phpjabbers/phpjabbers-event-booking-xss.yaml
