@@ -14,6 +14,7 @@ http/cves/2026/CVE-2026-25527.yaml
 http/cves/2026/CVE-2026-26190.yaml
 http/cves/2026/CVE-2026-2652.yaml
 http/cves/2026/CVE-2026-27771.yaml
+http/cves/2026/CVE-2026-27833.yaml
 http/cves/2026/CVE-2026-29059.yaml
 http/cves/2026/CVE-2026-3018.yaml
 http/cves/2026/CVE-2026-3300.yaml
@@ -46,8 +47,10 @@ http/exposed-panels/advantech-webaccess-panel.yaml
 http/exposed-panels/baserow-login-panel.yaml
 http/exposed-panels/homarr-panel.yaml
 http/exposed-panels/ivanti-sentry-panel.yaml
+http/exposed-panels/kargo-login.yaml
 http/exposed-panels/ligolo-ng-panel.yaml
 http/exposed-panels/rallly-login-panel.yaml
+http/exposed-panels/stackstorm-web-ui-panel.yaml
 http/exposed-panels/vikunja-panel.yaml
 http/exposures/configs/hexstrike-ai-config.yaml
 http/exposures/files/a2a-agent-card-enum.yaml
