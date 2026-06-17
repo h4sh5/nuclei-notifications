@@ -1,4 +1,5 @@
 code/cves/2026/CVE-2026-10795.yaml
+code/cves/2026/CVE-2026-31431.yaml
 http/cves/2020/CVE-2020-36884.yaml
 http/cves/2021/CVE-2021-3239.yaml
 http/cves/2022/CVE-2022-44727.yaml
@@ -14,9 +15,12 @@ http/cves/2026/CVE-2026-10520.yaml
 http/cves/2026/CVE-2026-10580.yaml
 http/cves/2026/CVE-2026-20253.yaml
 http/cves/2026/CVE-2026-25527.yaml
+http/cves/2026/CVE-2026-25555.yaml
 http/cves/2026/CVE-2026-26190.yaml
 http/cves/2026/CVE-2026-2652.yaml
+http/cves/2026/CVE-2026-27760.yaml
 http/cves/2026/CVE-2026-27771.yaml
+http/cves/2026/CVE-2026-27826.yaml
 http/cves/2026/CVE-2026-27833.yaml
 http/cves/2026/CVE-2026-29059.yaml
 http/cves/2026/CVE-2026-3018.yaml
@@ -62,6 +66,7 @@ http/exposures/configs/google-service-info-plist.yaml
 http/exposures/configs/hexstrike-ai-config.yaml
 http/exposures/files/a2a-agent-card-enum.yaml
 http/misconfiguration/installer/budibase-admin-installer.yaml
+http/misconfiguration/postiz-registration-enabled.yaml
 http/misconfiguration/unauth-mulesoft-dataweave.yaml
 http/vulnerabilities/yeswiki/yeswiki-reflected-xss.yaml
 javascript/cves/2026/CVE-2026-0257.yaml
