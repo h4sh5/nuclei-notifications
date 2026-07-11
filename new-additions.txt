@@ -30,6 +30,7 @@ http/exposed-panels/fortinet-fortianalyzer-panel.yaml
 http/exposed-panels/headscale-panel.yaml
 http/exposed-panels/hillstone-ssl-vpn-panel.yaml
 http/exposed-panels/jotty-page-login-panel.yaml
+http/exposed-panels/maxkb-panel.yaml
 http/exposed-panels/netgate-pfsenseplus-panel.yaml
 http/exposed-panels/netsweeper-webadmin-panel.yaml
 http/exposed-panels/nuage-networks-vsp-panel.yaml
