@@ -31,6 +31,7 @@ http/exposed-panels/fortinet-fortianalyzer-panel.yaml
 http/exposed-panels/headscale-panel.yaml
 http/exposed-panels/hillstone-ssl-vpn-panel.yaml
 http/exposed-panels/jotty-page-login-panel.yaml
+http/exposed-panels/kestra-panel.yaml
 http/exposed-panels/maxkb-panel.yaml
 http/exposed-panels/netgate-pfsenseplus-panel.yaml
 http/exposed-panels/netsweeper-webadmin-panel.yaml
@@ -54,6 +55,7 @@ http/exposed-panels/zywall-usg-panel.yaml
 http/iot/openremote-detect.yaml
 http/misconfiguration/installer/ctrlpanel-installer.yaml
 http/misconfiguration/marimo-auth-bypass.yaml
+http/misconfiguration/seaweedfs-unauth.yaml
 http/takeovers/godaddy-parked-domain.yaml
 http/technologies/google-iap-detect.yaml
 http/technologies/tibco-businessworks-detect.yaml
