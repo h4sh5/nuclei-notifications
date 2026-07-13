@@ -3,8 +3,10 @@ http/cves/2026/CVE-2026-10823.yaml
 http/cves/2026/CVE-2026-13731.yaml
 http/cves/2026/CVE-2026-1890.yaml
 http/cves/2026/CVE-2026-22778.yaml
+http/cves/2026/CVE-2026-24207.yaml
 http/cves/2026/CVE-2026-28496.yaml
 http/cves/2026/CVE-2026-30958.yaml
+http/cves/2026/CVE-2026-3326.yaml
 http/cves/2026/CVE-2026-34413.yaml
 http/cves/2026/CVE-2026-48282.yaml
 http/cves/2026/CVE-2026-48313.yaml
@@ -57,6 +59,7 @@ http/misconfiguration/installer/ctrlpanel-installer.yaml
 http/misconfiguration/marimo-auth-bypass.yaml
 http/misconfiguration/seaweedfs-unauth.yaml
 http/takeovers/godaddy-parked-domain.yaml
+http/technologies/apache/bitnami-apache-solr.yaml
 http/technologies/google-iap-detect.yaml
 http/technologies/tibco-businessworks-detect.yaml
 http/vulnerabilities/weaver/ecology/ecology-execforstr-rce.yaml
