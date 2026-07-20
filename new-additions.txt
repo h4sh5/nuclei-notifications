@@ -1,3 +1,4 @@
 http/cves/2026/CVE-2026-3891.yaml
 http/cves/2026/CVE-2026-56291.yaml
 http/cves/2026/CVE-2026-63030.yaml
+http/cves/2026/CVE-2026-9282.yaml
