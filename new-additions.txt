@@ -1,7 +1,10 @@
 http/cves/2026/CVE-2026-15094.yaml
 http/cves/2026/CVE-2026-1980.yaml
+http/cves/2026/CVE-2026-3296.yaml
+http/cves/2026/CVE-2026-33497.yaml
 http/cves/2026/CVE-2026-3891.yaml
 http/cves/2026/CVE-2026-46442.yaml
+http/cves/2026/CVE-2026-52773.yaml
 http/cves/2026/CVE-2026-52824.yaml
 http/cves/2026/CVE-2026-54836.yaml
 http/cves/2026/CVE-2026-56290.yaml
@@ -12,8 +15,10 @@ http/cves/2026/CVE-2026-9282.yaml
 http/default-logins/decolua/9router-default-login.yaml
 http/exposed-panels/bizzy-panel.yaml
 http/exposed-panels/sonicwall-sma-panel.yaml
+http/exposed-panels/vermeg-solife-panel.yaml
 http/technologies/deskpro-default-page.yaml
 http/technologies/deskpro-on-default-page.yaml
 http/technologies/huggingface-tei-tgi-detect.yaml
 http/technologies/jan-detect.yaml
 http/technologies/sglang-detect.yaml
+javascript/cves/2026/CVE-2026-15409.yaml
