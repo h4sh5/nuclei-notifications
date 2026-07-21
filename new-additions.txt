@@ -11,6 +11,7 @@ http/cves/2026/CVE-2026-9282.yaml
 http/exposed-panels/bizzy-panel.yaml
 http/exposed-panels/sonicwall-sma-panel.yaml
 http/technologies/deskpro-default-page.yaml
+http/technologies/deskpro-on-default-page.yaml
 http/technologies/huggingface-tei-tgi-detect.yaml
 http/technologies/jan-detect.yaml
 http/technologies/sglang-detect.yaml
