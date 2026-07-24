@@ -27,6 +27,7 @@ http/cves/2026/CVE-2026-9282.yaml
 http/default-logins/alibaba/sentinel-default-login.yaml
 http/default-logins/decolua/9router-default-login.yaml
 http/exposed-panels/aim-panel.yaml
+http/exposed-panels/arthas-web-console.yaml
 http/exposed-panels/bizzy-panel.yaml
 http/exposed-panels/chatwoot-login-panel.yaml
 http/exposed-panels/compreface-panel.yaml
