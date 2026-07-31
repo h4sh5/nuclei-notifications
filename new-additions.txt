@@ -4,6 +4,7 @@ http/cves/2024/CVE-2024-42323.yaml
 http/cves/2024/CVE-2024-56511.yaml
 http/cves/2025/CVE-2025-54988.yaml
 http/cves/2025/CVE-2025-55746.yaml
+http/cves/2025/CVE-2025-68493.yaml
 http/cves/2025/CVE-2025-71334.yaml
 http/cves/2026/CVE-2025-14047.yaml
 http/cves/2026/CVE-2026-15094.yaml
@@ -59,6 +60,7 @@ http/exposed-panels/sonicwall-sma-panel.yaml
 http/exposed-panels/verba-panel.yaml
 http/exposed-panels/vermeg-solife-panel.yaml
 http/exposures/apis/vllm-openai-api-exposed.yaml
+http/exposures/configs/claude-settings-exposure.yaml
 http/technologies/deskpro-default-page.yaml
 http/technologies/deskpro-on-default-page.yaml
 http/technologies/huggingface-tei-tgi-detect.yaml
