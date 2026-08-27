@@ -11,10 +11,12 @@ http/cves/2026/CVE-2026-18577.yaml
 http/cves/2026/CVE-2026-18963.yaml
 http/cves/2026/CVE-2026-23491.yaml
 http/cves/2026/CVE-2026-23536.yaml
+http/cves/2026/CVE-2026-32475.yaml
 http/cves/2026/CVE-2026-42878.yaml
 http/cves/2026/CVE-2026-65761.yaml
 http/cves/2026/CVE-2026-7467.yaml
 http/cves/2026/CVE-2026-77806.yaml
+http/default-logins/johnson/johnson-controls-default-login.yaml
 http/default-logins/litellm-default-login.yaml
 http/exposed-panels/documenso-panel.yaml
 http/exposed-panels/inventree-panel.yaml
@@ -24,7 +26,12 @@ http/exposed-panels/mguard-security-appliance-panel.yaml
 http/exposed-panels/planka-panel.yaml
 http/exposed-panels/wallabag-panel.yaml
 http/exposed-panels/wallos-panel.yaml
+http/exposures/configs/maven-settings-xml-exposure.yaml
+http/exposures/configs/nuget-config-exposure.yaml
+http/exposures/configs/pypirc-credentials-exposure.yaml
 http/technologies/docuseal-detect.yaml
 http/technologies/homebox-detect.yaml
+http/technologies/mealie-detect.yaml
+http/technologies/vikunja-detect.yaml
 javascript/cves/2026/CVE-2026-55040.yaml
 network/cves/2026/CVE-2026-73570.yaml
