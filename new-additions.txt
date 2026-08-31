@@ -20,6 +20,7 @@ http/cves/2026/CVE-2026-42878.yaml
 http/cves/2026/CVE-2026-44177.yaml
 http/cves/2026/CVE-2026-55229.yaml
 http/cves/2026/CVE-2026-65761.yaml
+http/cves/2026/CVE-2026-73034.yaml
 http/cves/2026/CVE-2026-7467.yaml
 http/cves/2026/CVE-2026-77806.yaml
 http/cves/2026/CVE-2026-9133.yaml
@@ -45,6 +46,7 @@ http/exposures/apis/victoriametrics-vmagent-api-exposure.yaml
 http/exposures/configs/maven-settings-xml-exposure.yaml
 http/exposures/configs/nuget-config-exposure.yaml
 http/exposures/configs/pypirc-credentials-exposure.yaml
+http/iot/gargoyle-router-detect.yaml
 http/technologies/dawarich-detect.yaml
 http/technologies/docuseal-detect.yaml
 http/technologies/homebox-detect.yaml
