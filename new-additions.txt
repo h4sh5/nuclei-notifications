@@ -9,6 +9,7 @@ http/cves/2025/CVE-2025-14998.yaml
 http/cves/2025/CVE-2025-15403.yaml
 http/cves/2025/CVE-2025-51683.yaml
 http/cves/2025/CVE-2025-53887.yaml
+http/cves/2026/CVE-2026-0650.yaml
 http/cves/2026/CVE-2026-0743.yaml
 http/cves/2026/CVE-2026-11801.yaml
 http/cves/2026/CVE-2026-12898.yaml
@@ -18,6 +19,7 @@ http/cves/2026/CVE-2026-19092.yaml
 http/cves/2026/CVE-2026-23491.yaml
 http/cves/2026/CVE-2026-23536.yaml
 http/cves/2026/CVE-2026-32475.yaml
+http/cves/2026/CVE-2026-41452.yaml
 http/cves/2026/CVE-2026-42596.yaml
 http/cves/2026/CVE-2026-42878.yaml
 http/cves/2026/CVE-2026-44177.yaml
@@ -53,6 +55,7 @@ http/exposures/configs/maven-settings-xml-exposure.yaml
 http/exposures/configs/nuget-config-exposure.yaml
 http/exposures/configs/pypirc-credentials-exposure.yaml
 http/iot/gargoyle-router-detect.yaml
+http/misconfiguration/nacos/nacos-v3-auth-scope-bypass.yaml
 http/technologies/dawarich-detect.yaml
 http/technologies/docuseal-detect.yaml
 http/technologies/eol/drupal-eol.yaml
