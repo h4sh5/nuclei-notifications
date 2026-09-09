@@ -12,6 +12,7 @@ http/cves/2025/CVE-2025-51683.yaml
 http/cves/2025/CVE-2025-53887.yaml
 http/cves/2026/CVE-2026-0561.yaml
 http/cves/2026/CVE-2026-0650.yaml
+http/cves/2026/CVE-2026-0702.yaml
 http/cves/2026/CVE-2026-0743.yaml
 http/cves/2026/CVE-2026-11801.yaml
 http/cves/2026/CVE-2026-12898.yaml
@@ -42,6 +43,7 @@ http/cves/2026/CVE-2026-77806.yaml
 http/cves/2026/CVE-2026-82329.yaml
 http/cves/2026/CVE-2026-86206.yaml
 http/cves/2026/CVE-2026-86207.yaml
+http/cves/2026/CVE-2026-86426.yaml
 http/cves/2026/CVE-2026-9133.yaml
 http/cves/2026/CVE-2026-9586.yaml
 http/default-logins/johnson/johnson-controls-default-login.yaml
