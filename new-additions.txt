@@ -1,4 +1,6 @@
 http/cves/2010/CVE-2010-1428.yaml
+http/cves/2023/CVE-2023-31719.yaml
+http/cves/2023/CVE-2023-54335.yaml
 http/cves/2024/CVE-2024-56829.yaml
 http/cves/2026/CVE-2026-102782.yaml
 http/cves/2026/CVE-2026-102878.yaml
@@ -15,12 +17,14 @@ http/cves/2026/CVE-2026-116070.yaml
 http/cves/2026/CVE-2026-116167.yaml
 http/cves/2026/CVE-2026-116205.yaml
 http/cves/2026/CVE-2026-116485.yaml
+http/cves/2026/CVE-2026-14554.yaml
 http/cves/2026/CVE-2026-16535.yaml
 http/cves/2026/CVE-2026-16959.yaml
 http/cves/2026/CVE-2026-17540.yaml
 http/cves/2026/CVE-2026-18051.yaml
 http/cves/2026/CVE-2026-18110.yaml
 http/cves/2026/CVE-2026-24898.yaml
+http/cves/2026/CVE-2026-34151.yaml
 http/cves/2026/CVE-2026-48048.yaml
 http/cves/2026/CVE-2026-55864.yaml
 http/cves/2026/CVE-2026-56062.yaml
