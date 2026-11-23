@@ -8,6 +8,7 @@ http/cves/2016/CVE-2016-5734.yaml
 http/cves/2016/CVE-2016-8869.yaml
 http/cves/2016/CVE-2016-8870.yaml
 http/cves/2017/CVE-2017-11467.yaml
+http/cves/2017/CVE-2017-12636.yaml
 http/cves/2017/CVE-2017-16562.yaml
 http/cves/2017/CVE-2017-17733.yaml
 http/cves/2017/CVE-2017-5963.yaml
@@ -24,6 +25,7 @@ http/cves/2022/CVE-2022-30047.yaml
 http/cves/2023/CVE-2023-2523.yaml
 http/cves/2023/CVE-2023-39964.yaml
 http/cves/2023/CVE-2023-49606.yaml
+http/cves/2023/CVE-2023-7334.yaml
 http/cves/2024/CVE-2024-21410.yaml
 http/cves/2024/CVE-2024-34193.yaml
 http/cves/2024/CVE-2024-34444.yaml
@@ -37,6 +39,7 @@ http/cves/2025/CVE-2025-40553.yaml
 http/cves/2025/CVE-2025-4283.yaml
 http/cves/2025/CVE-2025-60021.yaml
 http/cves/2025/CVE-2025-69985.yaml
+http/cves/2026/CVE-2026-0769.yaml
 http/cves/2026/CVE-2026-102657.yaml
 http/cves/2026/CVE-2026-102895.yaml
 http/cves/2026/CVE-2026-104476.yaml
@@ -60,7 +63,9 @@ http/cves/2026/CVE-2026-129131.yaml
 http/cves/2026/CVE-2026-130352.yaml
 http/cves/2026/CVE-2026-18351.yaml
 http/cves/2026/CVE-2026-19715.yaml
+http/cves/2026/CVE-2026-20131.yaml
 http/cves/2026/CVE-2026-22679.yaml
+http/cves/2026/CVE-2026-23734.yaml
 http/cves/2026/CVE-2026-27175.yaml
 http/cves/2026/CVE-2026-28318.yaml
 http/cves/2026/CVE-2026-28516.yaml
@@ -69,8 +74,10 @@ http/cves/2026/CVE-2026-30778.yaml
 http/cves/2026/CVE-2026-32609.yaml
 http/cves/2026/CVE-2026-33344.yaml
 http/cves/2026/CVE-2026-33638.yaml
+http/cves/2026/CVE-2026-34400.yaml
 http/cves/2026/CVE-2026-39732.yaml
 http/cves/2026/CVE-2026-39813.yaml
+http/cves/2026/CVE-2026-40293.yaml
 http/cves/2026/CVE-2026-41428.yaml
 http/cves/2026/CVE-2026-41661.yaml
 http/cves/2026/CVE-2026-42608.yaml
@@ -84,6 +91,7 @@ http/cves/2026/CVE-2026-55641.yaml
 http/cves/2026/CVE-2026-58400.yaml
 http/cves/2026/CVE-2026-59148.yaml
 http/cves/2026/CVE-2026-62032.yaml
+http/cves/2026/CVE-2026-62253.yaml
 http/cves/2026/CVE-2026-63219.yaml
 http/cves/2026/CVE-2026-63445.yaml
 http/cves/2026/CVE-2026-63645.yaml
@@ -97,6 +105,7 @@ http/cves/2026/CVE-2026-87916.yaml
 http/cves/2026/CVE-2026-88995.yaml
 http/cves/2026/CVE-2026-96654.yaml
 http/cves/2026/CVE-2026-96656.yaml
+http/cves/2026/CVE-2026-96662.yaml
 http/default-logins/acti/acti-web-configurator-default-login.yaml
 http/default-logins/anylogic/anylogic-server-default-login.yaml
 http/default-logins/apache/apache-amoro-default-login.yaml
