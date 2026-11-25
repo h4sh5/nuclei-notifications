@@ -21,6 +21,7 @@ http/cves/2018/CVE-2018-8581.yaml
 http/cves/2019/CVE-2019-19006.yaml
 http/cves/2020/CVE-2020-13925.yaml
 http/cves/2020/CVE-2020-6286.yaml
+http/cves/2021/CVE-2021-21980.yaml
 http/cves/2021/CVE-2021-22893.yaml
 http/cves/2021/CVE-2021-3199.yaml
 http/cves/2021/CVE-2021-36901.yaml
@@ -58,6 +59,7 @@ http/cves/2026/CVE-2026-102657.yaml
 http/cves/2026/CVE-2026-102895.yaml
 http/cves/2026/CVE-2026-104129.yaml
 http/cves/2026/CVE-2026-104476.yaml
+http/cves/2026/CVE-2026-107844.yaml
 http/cves/2026/CVE-2026-109991.yaml
 http/cves/2026/CVE-2026-110016.yaml
 http/cves/2026/CVE-2026-110355.yaml
@@ -73,6 +75,7 @@ http/cves/2026/CVE-2026-119302.yaml
 http/cves/2026/CVE-2026-119485.yaml
 http/cves/2026/CVE-2026-120409.yaml
 http/cves/2026/CVE-2026-120413.yaml
+http/cves/2026/CVE-2026-120735.yaml
 http/cves/2026/CVE-2026-121853.yaml
 http/cves/2026/CVE-2026-123655.yaml
 http/cves/2026/CVE-2026-123698.yaml
@@ -83,6 +86,7 @@ http/cves/2026/CVE-2026-124027.yaml
 http/cves/2026/CVE-2026-124426.yaml
 http/cves/2026/CVE-2026-124450.yaml
 http/cves/2026/CVE-2026-125444.yaml
+http/cves/2026/CVE-2026-129014.yaml
 http/cves/2026/CVE-2026-129131.yaml
 http/cves/2026/CVE-2026-129243.yaml
 http/cves/2026/CVE-2026-129448.yaml
@@ -99,7 +103,9 @@ http/cves/2026/CVE-2026-20131.yaml
 http/cves/2026/CVE-2026-20963.yaml
 http/cves/2026/CVE-2026-22679.yaml
 http/cves/2026/CVE-2026-23734.yaml
+http/cves/2026/CVE-2026-24124.yaml
 http/cves/2026/CVE-2026-25123.yaml
+http/cves/2026/CVE-2026-25242.yaml
 http/cves/2026/CVE-2026-25660.yaml
 http/cves/2026/CVE-2026-27175.yaml
 http/cves/2026/CVE-2026-27493.yaml
@@ -116,11 +122,13 @@ http/cves/2026/CVE-2026-32248.yaml
 http/cves/2026/CVE-2026-32275.yaml
 http/cves/2026/CVE-2026-32609.yaml
 http/cves/2026/CVE-2026-32760.yaml
+http/cves/2026/CVE-2026-32767.yaml
 http/cves/2026/CVE-2026-33344.yaml
 http/cves/2026/CVE-2026-33638.yaml
 http/cves/2026/CVE-2026-33669.yaml
 http/cves/2026/CVE-2026-33670.yaml
 http/cves/2026/CVE-2026-34400.yaml
+http/cves/2026/CVE-2026-3514.yaml
 http/cves/2026/CVE-2026-35413.yaml
 http/cves/2026/CVE-2026-35672.yaml
 http/cves/2026/CVE-2026-39732.yaml
@@ -133,6 +141,8 @@ http/cves/2026/CVE-2026-41428.yaml
 http/cves/2026/CVE-2026-41661.yaml
 http/cves/2026/CVE-2026-42608.yaml
 http/cves/2026/CVE-2026-42897.yaml
+http/cves/2026/CVE-2026-43644.yaml
+http/cves/2026/CVE-2026-44478.yaml
 http/cves/2026/CVE-2026-45140.yaml
 http/cves/2026/CVE-2026-45247.yaml
 http/cves/2026/CVE-2026-45627.yaml
@@ -141,6 +151,7 @@ http/cves/2026/CVE-2026-49352.yaml
 http/cves/2026/CVE-2026-49869.yaml
 http/cves/2026/CVE-2026-49980.yaml
 http/cves/2026/CVE-2026-50522.yaml
+http/cves/2026/CVE-2026-52769.yaml
 http/cves/2026/CVE-2026-52881.yaml
 http/cves/2026/CVE-2026-53754.yaml
 http/cves/2026/CVE-2026-5430.yaml
@@ -151,6 +162,7 @@ http/cves/2026/CVE-2026-57573.yaml
 http/cves/2026/CVE-2026-58400.yaml
 http/cves/2026/CVE-2026-59148.yaml
 http/cves/2026/CVE-2026-59309.yaml
+http/cves/2026/CVE-2026-59310.yaml
 http/cves/2026/CVE-2026-61426.yaml
 http/cves/2026/CVE-2026-61740.yaml
 http/cves/2026/CVE-2026-62032.yaml
@@ -159,9 +171,12 @@ http/cves/2026/CVE-2026-62253.yaml
 http/cves/2026/CVE-2026-63189.yaml
 http/cves/2026/CVE-2026-63219.yaml
 http/cves/2026/CVE-2026-63445.yaml
+http/cves/2026/CVE-2026-63520.yaml
+http/cves/2026/CVE-2026-63644.yaml
 http/cves/2026/CVE-2026-63645.yaml
 http/cves/2026/CVE-2026-64858.yaml
 http/cves/2026/CVE-2026-69083.yaml
+http/cves/2026/CVE-2026-71427.yaml
 http/cves/2026/CVE-2026-72788.yaml
 http/cves/2026/CVE-2026-73969.yaml
 http/cves/2026/CVE-2026-75918.yaml
@@ -192,6 +207,8 @@ http/default-logins/dinky/dinky-default-login.yaml
 http/default-logins/engenius/engenius-default-login.yaml
 http/default-logins/gotify/gotify-default-login.yaml
 http/default-logins/gw-security/gw-security-camera-default-login.yaml
+http/default-logins/kerberos-io/kerberos-agent-default-login.yaml
+http/default-logins/kuboard/kuboard-default-login.yaml
 http/default-logins/maxkb/maxkb-default-login.yaml
 http/default-logins/mobsf/mobsf-default-login.yaml
 http/default-logins/polycom/polycom-default-login.yaml
@@ -205,9 +222,12 @@ http/default-logins/zebra/zebra-web-default-login.yaml
 http/detect/scopeweaver-detect.yaml
 http/exposed-panels/caprover-panel.yaml
 http/misconfiguration/apicurio-registry-unauth.yaml
+http/misconfiguration/kerberos-agent-default-jwt.yaml
 http/misconfiguration/nessie-unauth.yaml
+http/misconfiguration/pgweb-unauth.yaml
 http/misconfiguration/unity-catalog-unauth.yaml
 http/technologies/antifox-detect.yaml
+http/technologies/apache-roller-detect.yaml
 http/technologies/bugtraceai-detect.yaml
 http/technologies/codemeter-detect.yaml
 http/technologies/cyberstrike-detect.yaml
